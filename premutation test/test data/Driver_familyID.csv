@@ -1,0 +1,2219 @@
+family name,uniport ID,smybol
+TKL Ser/Thr protein kinase family,O43353,RIPK2
+TKL Ser/Thr protein kinase family,P57078,RIPK4
+TKL Ser/Thr protein kinase family,Q9Y572,RIPK3
+TKL Ser/Thr protein kinase family,Q13705,ACVR2B
+TKL Ser/Thr protein kinase family,Q13873,BMPR2
+TKL Ser/Thr protein kinase family,Q04771,ACVR1
+TKL Ser/Thr protein kinase family,Q8NFD2,ANKK1
+TKL Ser/Thr protein kinase family,P36894,BMPR1A
+TKL Ser/Thr protein kinase family,P10398,ARAF
+TKL Ser/Thr protein kinase family,O00238,BMPR1B
+TKL Ser/Thr protein kinase family,Q8NER5,ACVR1C
+TKL Ser/Thr protein kinase family,P27037,ACVR2A
+TKL Ser/Thr protein kinase family,P15056,BRAF
+TKL Ser/Thr protein kinase family,P37023,ACVRL1
+TKL Ser/Thr protein kinase family,Q16671,AMHR2
+TKL Ser/Thr protein kinase family,P36896,ACVR1B
+TKL Ser/Thr protein kinase family,P51617,IRAK1
+TKL Ser/Thr protein kinase family,Q38SD2,LRRK1
+TKL Ser/Thr protein kinase family,Q5S007,LRRK2
+TKL Ser/Thr protein kinase family,Q9Y616,IRAK3
+TKL Ser/Thr protein kinase family,Q9NWZ3,IRAK4
+TKL Ser/Thr protein kinase family,Q8IVT5,KSR1
+TKL Ser/Thr protein kinase family,Q6VAB6,KSR2
+TKL Ser/Thr protein kinase family,P53667,LIMK1
+TKL Ser/Thr protein kinase family,P53671,LIMK2
+TKL Ser/Thr protein kinase family,Q59H18,TNNI3K
+TKL Ser/Thr protein kinase family,P04049,RAF1
+TKL Ser/Thr protein kinase family,Q13546,RIPK1
+TKL Ser/Thr protein kinase family,P36897,TGFBR1
+TKL Ser/Thr protein kinase family,P37173,TGFBR2
+TKL Ser/Thr protein kinase family,Q15569,TESK1
+TKL Ser/Thr protein kinase family,Q96S53,TESK2
+ALB/AFP/VDB family,P02774,GC
+ALB/AFP/VDB family,P02771,AFP
+ALB/AFP/VDB family,P02768,ALB
+ALB/AFP/VDB family,P43652,AFM
+BAF250(SWI/SNF-like complex subunit BAF250/Osa),O14497,ARID1A
+BAF250(SWI/SNF-like complex subunit BAF250/Osa),Q8NFD5?,ARID1B
+Axin-like,O15169,AXIN1
+Axin-like,Q9Y2T1,AXIN2
+peptidase C12 family,Q92560,BAP1
+peptidase C12 family,P15374,UCHL3
+peptidase C12 family,P09936,UCHL1
+Histone acetyltransferase Rtt109/CBP,Q92793,CREBBP
+Histone acetyltransferase Rtt109/CBP,Q09472,EP300
+Protein of unknown function DUF3512,Q9NPI1,BRD7
+Protein of unknown function DUF3512,Q9H8M2,BRD9
+SNF2/RAD54 helicase family,P51531,SMARCA2
+SNF2/RAD54 helicase family,Q9Y620,RAD54B
+SNF2/RAD54 helicase family,P51532,SMARCA4
+SNF2/RAD54 helicase family,Q149N8,SHPRH
+SNF2/RAD54 helicase family,Q6ZRS2,SRCAP
+SNF2/RAD54 helicase family,Q9H4L7,SMARCAD1
+SNF2/RAD54 helicase family,O60264,SMARCA5
+SNF2/RAD54 helicase family,Q5FWF4,ZRANB3
+SNF2/RAD54 helicase family,Q9P2D1,CHD7
+SNF2/RAD54 helicase family,O14981,BTAF1
+SNF2/RAD54 helicase family,Q96L91,EP400
+SNF2/RAD54 helicase family,O14646,CHD1
+SNF2/RAD54 helicase family,Q14839,CHD4
+SNF2/RAD54 helicase family,Q8TDI0,CHD5
+SNF2/RAD54 helicase family,P46100,ATRX
+SNF2/RAD54 helicase family,Q2NKX8,ERCC6L
+SNF2/RAD54 helicase family,Q9Y4B4,RAD54L2
+SNF2/RAD54 helicase family,Q9HCK8,CHD8
+SNF2/RAD54 helicase family,Q5T890,ERCC6L2
+SNF2/RAD54 helicase family,Q3L8U1,CHD9
+SNF2/RAD54 helicase family,Q14527,HLTF
+SNF2/RAD54 helicase family,Q12873,CHD3
+SNF2/RAD54 helicase family,Q86WJ1,CHD1L
+SNF2/RAD54 helicase family,Q9ULG1,INO80
+SNF2/RAD54 helicase family,Q9NRZ9,HELLS
+SNF2/RAD54 helicase family,O14647,CHD2
+SNF2/RAD54 helicase family,Q8TD26,CHD6
+SNF2/RAD54 helicase family,Q03468,ERCC6
+SNF2/RAD54 helicase family,Q9NZC9,SMARCAL1
+SNF2/RAD54 helicase family,P28370,SMARCA1
+CDI family,P38936,CDKN1A
+CDI family,P49918,CDKN1C
+CDI family,P46527,CDKN1B
+bZIP family,Q9NS37,CREBZF
+bZIP family,P17861,XBP1
+bZIP family,Q8N1L9,BATF2
+bZIP family,Q96BA8,CREB3L1
+bZIP family,Q70SY1,CREB3L2
+bZIP family,Q68CJ9,CREB3L3
+bZIP family,Q16520,BATF
+bZIP family,Q15744,CEBPE
+bZIP family,Q9Y2D1,ATF5
+bZIP family,O43889,CREB3
+bZIP family,Q03060,CREM
+bZIP family,P53567,CEBPG
+bZIP family,P16220,CREB1
+bZIP family,Q8IUR6,CREBRF
+bZIP family,P17544,ATF7
+bZIP family,Q8TEY5,CREB3L4
+bZIP family,P53539,FOSB
+bZIP family,O14867,BACH1
+bZIP family,P15336,ATF2
+bZIP family,P15408,FOSL2
+bZIP family,Q9BYV9,BACH2
+bZIP family,P18850,ATF6
+bZIP family,Q02930,CREB5
+bZIP family,P18848,ATF4
+bZIP family,P17676,CEBPB
+bZIP family,Q16534,HLF
+bZIP family,P35638,DDIT3
+bZIP family,P18847,ATF3
+bZIP family,Q14494,NFE2L1
+bZIP family,Q9Y4A8,NFE2L3
+bZIP family,P01100,FOS
+bZIP family,Q99941,ATF6B
+bZIP family,Q8NHW3,MAFA
+bZIP family,Q10586,DBP
+bZIP family,P05412,JUN
+bZIP family,P54845,NRL
+bZIP family,P17275,JUNB
+bZIP family,P17535,JUND
+bZIP family,Q16236,NFE2L2
+bZIP family,Q16621,NFE2
+beta-catenin family,Q9UQB3,CTNND2
+beta-catenin family,P35222,CTNNB1
+beta-catenin family,O00192,ARVCF
+beta-catenin family,O60716,CTNND1
+beta-catenin family,P14923,JUP
+beta-catenin family,Q99569,PKP4
+beta-catenin family,Q9Y446,PKP3
+beta-catenin family,Q13835,PKP1
+beta-catenin family,Q99959,PKP2
+DEAD box helicase family,Q9H6S0,YTHDC2
+DEAD box helicase family,Q9NR30,DDX21
+DEAD box helicase family,Q9H8H2,DDX31
+DEAD box helicase family,O00571,DDX3X
+DEAD box helicase family,O15523,DDX3Y
+DEAD box helicase family,Q9UJV9,DDX41
+DEAD box helicase family,Q86XP3,DDX42
+DEAD box helicase family,Q7L014,DDX46
+DEAD box helicase family,Q9NQI0,DDX4
+DEAD box helicase family,Q8TDD1,DDX54
+DEAD box helicase family,Q8NHQ9,DDX55
+DEAD box helicase family,Q13838,DDX39B
+DEAD box helicase family,Q14562,DHX8
+DEAD box helicase family,O00148,DDX39A
+DEAD box helicase family,Q9BUQ8,DDX23
+DEAD box helicase family,Q5T1V6,DDX59
+DEAD box helicase family,Q96GQ7,DDX27
+DEAD box helicase family,Q9BX63,BRIP1
+DEAD box helicase family,Q8IYD8,FANCM
+DEAD box helicase family,O60231,DHX16
+DEAD box helicase family,Q6P158,DHX57
+DEAD box helicase family,Q92499,DDX1
+DEAD box helicase family,Q9H0S4,DDX47
+DEAD box helicase family,P26196,DDX6
+DEAD box helicase family,Q96FC9,DDX11
+DEAD box helicase family,Q14240,EIF4A2
+DEAD box helicase family,Q9BQ39,DDX50
+DEAD box helicase family,Q8N8A6,DDX51
+DEAD box helicase family,Q86TM3,DDX53
+DEAD box helicase family,Q9Y6V7,DDX49
+DEAD box helicase family,Q13206,DDX10
+DEAD box helicase family,P38919,EIF4A3
+DEAD box helicase family,P60842,EIF4A1
+DEAD box helicase family,Q92841,DDX17
+DEAD box helicase family,Q9UHI6,DDX20
+DEAD box helicase family,Q9NY93,DDX56
+DEAD box helicase family,O43143,DHX15
+DEAD box helicase family,Q7Z478,DHX29
+DEAD box helicase family,Q7L2E3,DHX30
+DEAD box helicase family,Q7L7V1,DHX32
+DEAD box helicase family,Q9H6R0,DHX33
+DEAD box helicase family,Q14147,DHX34
+DEAD box helicase family,Q9GZR7,DDX24
+DEAD box helicase family,P17844,DDX5
+DEAD box helicase family,Q9H5Z1,DHX35
+DEAD box helicase family,Q8IY37,DHX37
+DEAD box helicase family,Q9NVP1,DDX18
+DEAD box helicase family,Q9NXZ2,DDX43
+DEAD box helicase family,Q8IX18,DHX40
+DEAD box helicase family,Q9H2U1,DHX36
+DEAD box helicase family,Q08211,DHX9
+DEAD box helicase family,Q9UMR2,DDX19B
+DEAD box helicase family,Q9NUL7,DDX28
+DEAD box helicase family,Q92620,DHX38
+DEAD box helicase family,Q8NDG6,TDRD9
+Classic translation factor GTPase family,Q969S9,GFM2
+Classic translation factor GTPase family,Q15029,EFTUD2
+Classic translation factor GTPase family,Q8IYD1,GSPT2
+Classic translation factor GTPase family,P13639,EEF2
+Classic translation factor GTPase family,P15170,GSPT1
+Classic translation factor GTPase family,Q96RP9,GFM1
+Classic translation factor GTPase family,Q05639,EEF1A2
+Classic translation factor GTPase family,Q9Y450,HBS1L
+Classic translation factor GTPase family,P41091,EIF2S3
+Classic translation factor GTPase family,Q7Z2Z2,EFL1
+Classic translation factor GTPase family,P68104,EEF1A1
+Classic translation factor GTPase family,P49411,TUFM
+Classic translation factor GTPase family,Q9BX10,GTPBP2
+Classic translation factor GTPase family,P46199,MTIF2
+Classic translation factor GTPase family,P57772,EEFSEC
+Classic translation factor GTPase family,O00178,GTPBP1
+Classic translation factor GTPase family,Q8N442,GUF1
+Classic translation factor GTPase family,Q2VIR3,EIF2S3B
+G-alpha family,P19087,GNAT2
+G-alpha family,P19086,GNAZ
+G-alpha family,P63092,GNAS
+G-alpha family,A8MTJ3,GNAT3
+G-alpha family,Q03113,GNA12
+G-alpha family,Q14344,GNA13
+G-alpha family,O95837,GNA14
+G-alpha family,P30679,GNA15
+G-alpha family,P63096,GNAI1
+G-alpha family,P04899,GNAI2
+G-alpha family,P08754,GNAI3
+G-alpha family,P38405,GNAL
+G-alpha family,P50148,GNAQ
+G-alpha family,Q5JWF2,GNAS
+G-alpha family,P11488,GNAT1
+G-alpha family,P29992,GNA11
+isocitrate and isopropylmalate dehydrogenases family,P51553,IDH3G
+isocitrate and isopropylmalate dehydrogenases family,P48735,IDH2
+isocitrate and isopropylmalate dehydrogenases family,O43837,IDH3B
+isocitrate and isopropylmalate dehydrogenases family,P50213,IDH3A
+isocitrate and isopropylmalate dehydrogenases family,O75874,IDH1
+type I cytokine receptor family,P16471,PRLR
+type I cytokine receptor family,P19235,EPOR
+type I cytokine receptor family,P10912,GHR
+type I cytokine receptor family,Q99062,CSF3R
+type I cytokine receptor family,P26992,CNTFR
+type I cytokine receptor family,Q9HC73,CRLF2
+type I cytokine receptor family,O75462,CRLF1
+type I cytokine receptor family,Q99665,IL12RB2
+type I cytokine receptor family,Q14627,IL13RA2
+type I cytokine receptor family,Q01113,IL9R
+type I cytokine receptor family,Q14213,EBI3
+type I cytokine receptor family,Q14626,IL11RA
+type I cytokine receptor family,P42701,IL12RB1
+type I cytokine receptor family,P14784,IL2RB
+type I cytokine receptor family,Q8NI17,IL31RA
+type I cytokine receptor family,Q9HBE5,IL21R
+type I cytokine receptor family,P32927,CSF2RB
+type I cytokine receptor family,Q5VWK5,IL23R
+type I cytokine receptor family,P08887,IL6R
+type I cytokine receptor family,P78552,IL13RA1
+type I cytokine receptor family,P16871,IL7R
+type I cytokine receptor family,P42702,LIFR
+type I cytokine receptor family,Q01344,IL5RA
+type I cytokine receptor family,Q99650,OSMR
+type I cytokine receptor family,P40189,IL6ST
+type I cytokine receptor family,P48357,LEPR
+type I cytokine receptor family,P24394,IL4R
+type I cytokine receptor family,Q6UWB1,IL27RA
+type I cytokine receptor family,P31785,IL2RG
+Ras family,Q96A58,RERG
+Ras family,P01111,NRAS
+Ras family,P62070,RRAS2
+Ras family,P62834,RAP1A
+Ras family,P01116,KRAS
+Ras family,Q92963,RIT1
+Ras family,P61225,RAP2B
+Ras family,Q99578,RIT2
+Ras family,P11233,RALA
+Ras family,Q9NYS0,NKIRAS1
+Ras family,Q9NYR9,NKIRAS2
+Ras family,Q6T310,RASL11A
+Ras family,Q9BPW5,RASL11B
+PI3/PI4-kinase family,Q9Y4A5,TRRAP
+PI3/PI4-kinase family,O00750,PIK3C2B
+PI3/PI4-kinase family,Q13535,ATR
+PI3/PI4-kinase family,Q13315,ATM
+PI3/PI4-kinase family,P42356,PI4KA
+PI3/PI4-kinase family,Q9UBF8,PI4KB
+PI3/PI4-kinase family,P42345,MTOR
+PI3/PI4-kinase family,O00329,PIK3CD
+PI3/PI4-kinase family,Q96Q15,SMG1
+PI3/PI4-kinase family,O00443,PIK3C2A
+PI3/PI4-kinase family,P78527,PRKDC
+PI3/PI4-kinase family,Q9BTU6,PI4K2A
+PI3/PI4-kinase family,P48736,PIK3CG
+PI3/PI4-kinase family,P42336,PIK3CA
+PI3/PI4-kinase family,P42338,PIK3CB
+PI3/PI4-kinase family,Q8TCG2,PI4K2B
+PI3/PI4-kinase family,O75747,PIK3C2G
+retinoblastoma protein (RB) family,P06400,RB1
+retinoblastoma protein (RB) family,P28749,RBL1
+retinoblastoma protein (RB) family,Q08999,RBL2
+AGC Ser/Thr protein kinase family,Q9Y2H1,STK38L
+AGC Ser/Thr protein kinase family,P51817,PRKX
+AGC Ser/Thr protein kinase family,O75116,ROCK2
+AGC Ser/Thr protein kinase family,Q96BR1,SGK3
+AGC Ser/Thr protein kinase family,P23443,RPS6KB1
+AGC Ser/Thr protein kinase family,Q9UK32,RPS6KA6
+AGC Ser/Thr protein kinase family,Q9Y243,AKT3
+AGC Ser/Thr protein kinase family,Q09013,DMPK
+AGC Ser/Thr protein kinase family,P35626,GRK3
+AGC Ser/Thr protein kinase family,P31751,AKT2
+AGC Ser/Thr protein kinase family,P32298,GRK4
+AGC Ser/Thr protein kinase family,P34947,GRK5
+AGC Ser/Thr protein kinase family,P43250,GRK6
+AGC Ser/Thr protein kinase family,Q8WTQ7,GRK7
+AGC Ser/Thr protein kinase family,P25098,GRK2
+AGC Ser/Thr protein kinase family,O15021,MAST4
+AGC Ser/Thr protein kinase family,Q9Y2H9,MAST1
+AGC Ser/Thr protein kinase family,Q6P0Q8,MAST2
+AGC Ser/Thr protein kinase family,P22694,PRKACB
+AGC Ser/Thr protein kinase family,P22612,PRKACG
+AGC Ser/Thr protein kinase family,O14578,CIT
+AGC Ser/Thr protein kinase family,Q9UBS0,RPS6KB2
+AGC Ser/Thr protein kinase family,P24723,PRKCH
+AGC Ser/Thr protein kinase family,Q13237,PRKG2
+AGC Ser/Thr protein kinase family,P17252,PRKCA
+AGC Ser/Thr protein kinase family,Q96GX5,MASTL
+AGC Ser/Thr protein kinase family,P41743,PRKCI
+AGC Ser/Thr protein kinase family,Q13976,PRKG1
+AGC Ser/Thr protein kinase family,P17612,PRKACA
+AGC Ser/Thr protein kinase family,Q6DT37,CDC42BPG
+AGC Ser/Thr protein kinase family,Q16512,PKN1
+AGC Ser/Thr protein kinase family,Q16513,PKN2
+AGC Ser/Thr protein kinase family,Q6P5Z2,PKN3
+AGC Ser/Thr protein kinase family,P51812,RPS6KA3
+AGC Ser/Thr protein kinase family,O75676,RPS6KA4
+AGC Ser/Thr protein kinase family,P05129,PRKCG
+AGC Ser/Thr protein kinase family,Q02156,PRKCE
+AGC Ser/Thr protein kinase family,Q04759,PRKCQ
+AGC Ser/Thr protein kinase family,Q15418,RPS6KA1
+AGC Ser/Thr protein kinase family,Q15349,RPS6KA2
+AGC Ser/Thr protein kinase family,O95835,LATS1
+AGC Ser/Thr protein kinase family,Q9NRM7,LATS2
+AGC Ser/Thr protein kinase family,O75582,RPS6KA5
+AGC Ser/Thr protein kinase family,Q9Y5S2,CDC42BPB
+AGC Ser/Thr protein kinase family,P05771,PRKCB
+AGC Ser/Thr protein kinase family,Q9HBY8,SGK2
+AGC Ser/Thr protein kinase family,Q05513,PRKCZ
+AGC Ser/Thr protein kinase family,O60307,MAST3
+AGC Ser/Thr protein kinase family,Q13464,ROCK1
+AGC Ser/Thr protein kinase family,Q15208,STK38
+AGC Ser/Thr protein kinase family,Q5VT25,CDC42BPA
+AGC Ser/Thr protein kinase family,O00141,SGK1
+p53 family,O15350,TP73
+p53 family,P04637,TP53
+p53 family,Q9H3D4,TP63
+Tuberin/Ral GTPase-activating protein subunit alpha,P49815,TSC2
+Tuberin/Ral GTPase-activating protein subunit alpha,Q2PPJ7,RALGAPA2
+Tuberin/Ral GTPase-activating protein subunit alpha,Q6GYQ0,RALGAPA1
+exportin family,O14980,XPO1
+exportin family,Q9UIA9,XPO7
+exportin family,Q96QU8,XPO6
+exportin family,O43592,XPOT
+exportin family,Q9HAV4,XPO5
+exportin family,Q9C0E2,XPO4
+exportin family,Q9H2T7,RANBP17
+eukaryotic ribosomal protein eL22 family,P35268,RPL22
+eukaryotic ribosomal protein eL22 family,Q6P5R6,RPL22L1
+cyclin family,P24385,CCND1
+cyclin family,P30279,CCND2
+cyclin family,Q96S94,CCNL2
+cyclin family,Q8WWL7,CCNB3
+cyclin family,P20248,CCNA2
+cyclin family,P78396,CCNA1
+cyclin family,O96020,CCNE2
+cyclin family,P14635,CCNB1
+cyclin family,O60583,CCNT2
+cyclin family,P51946,CCNH
+cyclin family,Q8ND76,CCNY
+cyclin family,P24864,CCNE1
+cyclin family,P24863,CCNC
+cyclin family,O60563,CCNT1
+cyclin family,Q9UK58,CCNL1
+cyclin family,P41002,CCNF
+cyclin family,P51959,CCNG1
+cyclin family,P22674,CCNO
+cyclin family,Q8TDN4,CABLES1
+cyclin family,Q8IV13,CCNJL
+cyclin family,Q8N7R7,CCNYL1
+cyclin family,Q9BTV7,CABLES2
+N-CoR nuclear receptor corepressors family,O75376,NCOR1
+N-CoR nuclear receptor corepressors family,Q9Y618,NCOR2
+WD repeat EBI family,Q9BZK7,TBL1XR1
+WD repeat EBI family,O60907,TBL1X
+WD repeat EBI family,Q9BQ87,TBL1Y
+nuclear hormone receptor family,P19793,RXRA
+nuclear hormone receptor family,P28702,RXRB
+nuclear hormone receptor family,Q92753,RORB
+nuclear hormone receptor family,P37231,PPARG
+nuclear hormone receptor family,P10276,RARA
+nuclear hormone receptor family,P06401,PGR
+nuclear hormone receptor family,P62508,ESRRG
+nuclear hormone receptor family,P24468,NR2F2
+nuclear hormone receptor family,P04150,NR3C1
+nuclear hormone receptor family,P10589,NR2F1
+nuclear hormone receptor family,P11474,ESRRA
+nuclear hormone receptor family,P10275,AR
+nuclear hormone receptor family,P51843,NR0B1
+nuclear hormone receptor family,P13056,NR2C1
+nuclear hormone receptor family,P55055,NR1H2
+nuclear hormone receptor family,Q92731,ESR2
+nuclear hormone receptor family,P41235,HNF4A
+nuclear hormone receptor family,P03372,ESR1
+nuclear hormone receptor family,Q13133,NR1H3
+nuclear hormone receptor family,Q96RI1,NR1H4
+nuclear hormone receptor family,O75469,NR1I2
+nuclear hormone receptor family,Q14994,NR1I3
+nuclear hormone receptor family,O95718,ESRRB
+nuclear hormone receptor family,P22736,NR4A1
+nuclear hormone receptor family,Q14541,HNF4G
+nuclear hormone receptor family,O00482,NR5A2
+nuclear hormone receptor family,Q15466,NR0B2
+nuclear hormone receptor family,Q14995,NR1D2
+nuclear hormone receptor family,Q9Y466,NR2E1
+nuclear hormone receptor family,P49116,NR2C2
+nuclear hormone receptor family,P43354,NR4A2
+nuclear hormone receptor family,P08235,NR3C2
+nuclear hormone receptor family,P35398,RORA
+nuclear hormone receptor family,P13631,RARG
+nuclear hormone receptor family,Q07869,PPARA
+nuclear hormone receptor family,P10826,RARB
+nuclear hormone receptor family,Q03181,PPARD
+nuclear hormone receptor family,Q13285,NR5A1
+nuclear hormone receptor family,P48443,RXRG
+nuclear hormone receptor family,P51449,RORC
+nuclear hormone receptor family,P10828,THRB
+nuclear hormone receptor family,Q92570,NR4A3
+nuclear hormone receptor family,Q15406,NR6A1
+G-protein coupled receptor 1 family,P37288,AVPR1A
+G-protein coupled receptor 1 family,P43088,PTGFR
+G-protein coupled receptor 1 family,Q8NFJ6,PROKR2
+G-protein coupled receptor 1 family,P51582,P2RY4
+G-protein coupled receptor 1 family,P47804,RGR
+G-protein coupled receptor 1 family,O95136,S1PR2
+G-protein coupled receptor 1 family,Q99500,S1PR3
+G-protein coupled receptor 1 family,O00254,F2RL2
+G-protein coupled receptor 1 family,P35372,OPRM1
+G-protein coupled receptor 1 family,P55085,F2RL1
+G-protein coupled receptor 1 family,P41231,P2RY2
+G-protein coupled receptor 1 family,P41145,OPRK1
+G-protein coupled receptor 1 family,P21731,TBXA2R
+G-protein coupled receptor 1 family,P16473,TSHR
+G-protein coupled receptor 1 family,P32745,SSTR3
+G-protein coupled receptor 1 family,P47901,AVPR1B
+G-protein coupled receptor 1 family,Q9BXA5,SUCNR1
+G-protein coupled receptor 1 family,P30518,AVPR2
+G-protein coupled receptor 1 family,P30556,AGTR1
+G-protein coupled receptor 1 family,P28221,HTR1D
+G-protein coupled receptor 1 family,P28222,HTR1B
+G-protein coupled receptor 1 family,P0DMS8,ADORA3
+G-protein coupled receptor 1 family,Q01718,MC2R
+G-protein coupled receptor 1 family,P21554,CNR1
+G-protein coupled receptor 1 family,P25025,CXCR2
+G-protein coupled receptor 1 family,P34969,HTR7
+G-protein coupled receptor 1 family,Q9H244,P2RY12
+G-protein coupled receptor 1 family,O00590,ACKR2
+G-protein coupled receptor 1 family,P25106,ACKR3
+G-protein coupled receptor 1 family,P29274,ADORA2A
+G-protein coupled receptor 1 family,Q9P296,C5AR2
+G-protein coupled receptor 1 family,Q8TDU6,GPBAR1
+G-protein coupled receptor 1 family,Q92847,GHSR
+G-protein coupled receptor 1 family,Q16570,ACKR1
+G-protein coupled receptor 1 family,P28566,HTR1E
+G-protein coupled receptor 1 family,P35414,APLNR
+G-protein coupled receptor 1 family,P21728,DRD1
+G-protein coupled receptor 1 family,P25090,FPR2
+G-protein coupled receptor 1 family,P11229,CHRM1
+G-protein coupled receptor 1 family,P08172,CHRM2
+G-protein coupled receptor 1 family,P28335,HTR2C
+G-protein coupled receptor 1 family,P35348,ADRA1A
+G-protein coupled receptor 1 family,P51685,CCR8
+G-protein coupled receptor 1 family,P25024,CXCR1
+G-protein coupled receptor 1 family,P32302,CXCR5
+G-protein coupled receptor 1 family,P20309,CHRM3
+G-protein coupled receptor 1 family,P41597,CCR2
+G-protein coupled receptor 1 family,Q5NUL3,FFAR4
+G-protein coupled receptor 1 family,Q9HBW0,LPAR2
+G-protein coupled receptor 1 family,P61073,CXCR4
+G-protein coupled receptor 1 family,O60883,GPR37L1
+G-protein coupled receptor 1 family,P13945,ADRB3
+G-protein coupled receptor 1 family,P08588,ADRB1
+G-protein coupled receptor 1 family,P34972,CNR2
+G-protein coupled receptor 1 family,P25101,EDNRA
+G-protein coupled receptor 1 family,P24530,EDNRB
+G-protein coupled receptor 1 family,Q16581,C3AR1
+G-protein coupled receptor 1 family,P32246,CCR1
+G-protein coupled receptor 1 family,P21917,DRD4
+G-protein coupled receptor 1 family,P08908,HTR1A
+G-protein coupled receptor 1 family,P41595,HTR2B
+G-protein coupled receptor 1 family,P35368,ADRA1B
+G-protein coupled receptor 1 family,P30411,BDKRB2
+G-protein coupled receptor 1 family,P51679,CCR4
+G-protein coupled receptor 1 family,Q9BZJ8,GPR61
+G-protein coupled receptor 1 family,Q96P66,GPR101
+G-protein coupled receptor 1 family,O15552,FFAR2
+G-protein coupled receptor 1 family,P49682,CXCR3
+G-protein coupled receptor 1 family,P21918,DRD5
+G-protein coupled receptor 1 family,O00574,CXCR6
+G-protein coupled receptor 1 family,O60755,GALR3
+G-protein coupled receptor 1 family,P51677,CCR3
+G-protein coupled receptor 1 family,P49238,CX3CR1
+G-protein coupled receptor 1 family,P14416,DRD2
+G-protein coupled receptor 1 family,O43603,GALR2
+G-protein coupled receptor 1 family,P47900,P2RY1
+G-protein coupled receptor 1 family,Q01726,MC1R
+G-protein coupled receptor 1 family,P25103,TACR1
+G-protein coupled receptor 1 family,P25100,ADRA1D
+G-protein coupled receptor 1 family,P08913,ADRA2A
+G-protein coupled receptor 1 family,P51681,CCR5
+G-protein coupled receptor 1 family,P35462,DRD3
+G-protein coupled receptor 1 family,P23945,FSHR
+G-protein coupled receptor 1 family,P32239,CCKBR
+G-protein coupled receptor 1 family,O15354,GPR37
+G-protein coupled receptor 1 family,Q9GZP7,VN1R1
+G-protein coupled receptor 1 family,Q8NGI6,OR4D10
+G-protein coupled receptor 1 family,O14804,TAAR5
+G-protein coupled receptor 1 family,Q96RI8,TAAR6
+G-protein coupled receptor 1 family,P30954,OR10J1
+G-protein coupled receptor 1 family,Q9H208,OR10A2
+G-protein coupled receptor 1 family,Q9H344,OR51I2
+G-protein coupled receptor 1 family,Q8WZ94,OR5P3
+G-protein coupled receptor 1 family,Q8NGJ8,OR51S1
+G-protein coupled receptor 1 family,O95371,OR2C1
+G-protein coupled receptor 1 family,Q8NGB6,OR4M2
+G-protein coupled receptor 1 family,Q8NGX0,OR11L1
+G-protein coupled receptor 1 family,Q8NH67,OR52I2
+G-protein coupled receptor 1 family,Q96P65,QRFPR
+G-protein coupled receptor 1 family,O95007,OR6B1
+G-protein coupled receptor 1 family,Q15617,OR8G1
+G-protein coupled receptor 1 family,Q6IFN5,OR7E24
+G-protein coupled receptor 1 family,Q8N162,OR8H2
+G-protein coupled receptor 1 family,Q8NGT5,OR9A2
+G-protein coupled receptor 1 family,Q8NGC4,OR10G3
+G-protein coupled receptor 1 family,Q8NGN3,OR10G4
+G-protein coupled receptor 1 family,Q96KK4,OR10C1
+G-protein coupled receptor 1 family,Q8NGS1,OR1J4
+G-protein coupled receptor 1 family,Q8NGT0,OR13C9
+G-protein coupled receptor 1 family,Q5TZ20,OR2G6
+G-protein coupled receptor 1 family,Q8NGJ5,OR51L1
+G-protein coupled receptor 1 family,Q96RB7,OR5M11
+G-protein coupled receptor 1 family,Q8NH43,OR4L1
+G-protein coupled receptor 1 family,Q8IXE1,OR4N5
+G-protein coupled receptor 1 family,Q8NG77,OR2T12
+G-protein coupled receptor 1 family,Q8NGI4,OR4D11
+G-protein coupled receptor 1 family,Q8NGX6,OR10R2
+G-protein coupled receptor 1 family,Q8NGG3,OR5T3
+G-protein coupled receptor 1 family,Q8NGX3,OR10T2
+G-protein coupled receptor 1 family,Q8NGF3,OR51D1
+G-protein coupled receptor 1 family,P43116,PTGER2
+G-protein coupled receptor 1 family,Q8NGY5,OR6N1
+G-protein coupled receptor 1 family,O76100,OR7A10
+G-protein coupled receptor 1 family,Q6IF42,OR2A2
+G-protein coupled receptor 1 family,Q9H342,OR51J1
+G-protein coupled receptor 1 family,Q8NHA4,OR2AE1
+G-protein coupled receptor 1 family,Q8NGK4,OR52K1
+G-protein coupled receptor 1 family,Q8NGF0,OR52B6
+G-protein coupled receptor 1 family,Q8NGJ9,OR51T1
+G-protein coupled receptor 1 family,P34995,PTGER1
+G-protein coupled receptor 1 family,Q9GZM6,OR8D2
+G-protein coupled receptor 1 family,Q8NG95,OR7G3
+G-protein coupled receptor 1 family,Q8NGM1,OR4C15
+G-protein coupled receptor 1 family,Q9NSD7,RXFP3
+G-protein coupled receptor 1 family,Q9UKP6,UTS2R
+G-protein coupled receptor 1 family,Q8NGR9,OR1N2
+G-protein coupled receptor 1 family,Q8NGK9,OR5D16
+G-protein coupled receptor 1 family,Q8NHB7,OR5K1
+G-protein coupled receptor 1 family,Q8NGZ9,OR2T10
+G-protein coupled receptor 1 family,Q8NGC7,OR11H6
+G-protein coupled receptor 1 family,O95006,OR2F2
+G-protein coupled receptor 1 family,Q9H343,OR51I1
+G-protein coupled receptor 1 family,Q8NH60,OR52J3
+G-protein coupled receptor 1 family,A3KFT3,OR2M5
+G-protein coupled receptor 1 family,A6NIJ9,OR6C70
+G-protein coupled receptor 1 family,Q8NG80,OR2L5
+G-protein coupled receptor 1 family,Q9H340,OR51B6
+G-protein coupled receptor 1 family,Q8TCW9,PROKR1
+G-protein coupled receptor 1 family,Q8NFZ6,VN1R2
+G-protein coupled receptor 1 family,Q8NGZ6,OR6F1
+G-protein coupled receptor 1 family,Q8NGS2,OR1J2
+G-protein coupled receptor 1 family,A6ND48,OR14I1
+G-protein coupled receptor 1 family,Q8NH00,OR2T4
+G-protein coupled receptor 1 family,Q9H341,OR51M1
+G-protein coupled receptor 1 family,A6NH00,OR2T8
+G-protein coupled receptor 1 family,Q15619,OR1C1
+G-protein coupled receptor 1 family,Q8NGD5,OR4K14
+G-protein coupled receptor 1 family,Q8NH64,OR51A7
+G-protein coupled receptor 1 family,Q8NGK1,OR51G1
+G-protein coupled receptor 1 family,Q8NGZ4,OR2G3
+G-protein coupled receptor 1 family,Q96R69,OR4F4
+G-protein coupled receptor 1 family,Q7Z5H5,VN1R4
+G-protein coupled receptor 1 family,Q8NG76,OR2T33
+G-protein coupled receptor 1 family,Q8NGD0,OR4M1
+G-protein coupled receptor 1 family,Q8NGR1,OR13A1
+G-protein coupled receptor 1 family,Q8NGP8,OR5M1
+G-protein coupled receptor 1 family,Q8NGB8,OR4F15
+G-protein coupled receptor 1 family,Q96RJ0,TAAR1
+G-protein coupled receptor 1 family,P32238,CCKAR
+G-protein coupled receptor 1 family,Q8N148,OR6V1
+G-protein coupled receptor 1 family,Q9UKL2,OR52A1
+G-protein coupled receptor 1 family,Q8NG83,OR2M3
+G-protein coupled receptor 1 family,Q9Y5P1,OR51B2
+G-protein coupled receptor 1 family,Q8NH04,OR2T27
+G-protein coupled receptor 1 family,Q8NGI2,OR52N4
+G-protein coupled receptor 1 family,Q8NGV7,OR5H2
+G-protein coupled receptor 1 family,Q15391,P2RY14
+G-protein coupled receptor 1 family,P32247,BRS3
+G-protein coupled receptor 1 family,Q16538,GPR162
+G-protein coupled receptor 1 family,O15218,GPR182
+G-protein coupled receptor 1 family,Q14330,GPR18
+G-protein coupled receptor 1 family,P29275,ADORA2B
+G-protein coupled receptor 1 family,P30939,HTR1F
+G-protein coupled receptor 1 family,P50406,HTR6
+G-protein coupled receptor 1 family,Q9NS75,CYSLTR2
+G-protein coupled receptor 1 family,P25089,FPR3
+G-protein coupled receptor 1 family,Q99679,GPR21
+G-protein coupled receptor 1 family,Q96P67,GPR82
+G-protein coupled receptor 1 family,P46089,GPR3
+G-protein coupled receptor 1 family,Q9BZJ6,GPR63
+G-protein coupled receptor 1 family,Q9Y271,CYSLTR1
+G-protein coupled receptor 1 family,P08173,CHRM4
+G-protein coupled receptor 1 family,P08912,CHRM5
+G-protein coupled receptor 1 family,P46092,CCR10
+G-protein coupled receptor 1 family,P25021,HRH2
+G-protein coupled receptor 1 family,Q99678,GPR20
+G-protein coupled receptor 1 family,Q15760,GPR19
+G-protein coupled receptor 1 family,Q8NDV2,GPR26
+G-protein coupled receptor 1 family,Q8TDV5,GPR119
+G-protein coupled receptor 1 family,Q9UNW8,GPR132
+G-protein coupled receptor 1 family,Q8IZ08,GPR135
+G-protein coupled receptor 1 family,Q6DWJ6,GPR139
+G-protein coupled receptor 1 family,Q7Z602,GPR141
+G-protein coupled receptor 1 family,Q9BXC1,GPR174
+G-protein coupled receptor 1 family,Q96P69,GPR78
+G-protein coupled receptor 1 family,P35410,MAS1L
+G-protein coupled receptor 1 family,Q15620,OR8B8
+G-protein coupled receptor 1 family,Q5JQS5,OR2B11
+G-protein coupled receptor 1 family,Q969V1,MCHR2
+G-protein coupled receptor 1 family,Q9BXC0,HCAR1
+G-protein coupled receptor 1 family,Q8NGH3,OR2D3
+G-protein coupled receptor 1 family,P47898,HTR5A
+G-protein coupled receptor 1 family,O75388,GPR32
+G-protein coupled receptor 1 family,Q9Y5Y3,GPR45
+G-protein coupled receptor 1 family,O95800,GPR75
+G-protein coupled receptor 1 family,P22888,LHCGR
+G-protein coupled receptor 1 family,Q92633,LPAR1
+G-protein coupled receptor 1 family,Q99705,MCHR1
+G-protein coupled receptor 1 family,P48145,NPBWR1
+G-protein coupled receptor 1 family,P48146,NPBWR2
+G-protein coupled receptor 1 family,Q9GZQ4,NMUR2
+G-protein coupled receptor 1 family,P28336,NMBR
+G-protein coupled receptor 1 family,Q96LB2,MRGPRX1
+G-protein coupled receptor 1 family,Q96LB1,MRGPRX2
+G-protein coupled receptor 1 family,Q13585,GPR50
+G-protein coupled receptor 1 family,P21462,FPR1
+G-protein coupled receptor 1 family,Q7Z601,GPR142
+G-protein coupled receptor 1 family,O14842,FFAR1
+G-protein coupled receptor 1 family,Q8N6U8,GPR161
+G-protein coupled receptor 1 family,Q9NS66,GPR173
+G-protein coupled receptor 1 family,P18089,ADRA2B
+G-protein coupled receptor 1 family,P07550,ADRB2
+G-protein coupled receptor 1 family,P51686,CCR9
+G-protein coupled receptor 1 family,Q9NYM4,GPR83
+G-protein coupled receptor 1 family,Q9NQS5,GPR84
+G-protein coupled receptor 1 family,P60893,GPR85
+G-protein coupled receptor 1 family,Q9BY21,GPR87
+G-protein coupled receptor 1 family,Q96CH1,GPR146
+G-protein coupled receptor 1 family,Q8TDV2,GPR148
+G-protein coupled receptor 1 family,Q86SP6,GPR149
+G-protein coupled receptor 1 family,Q8TDV0,GPR151
+G-protein coupled receptor 1 family,Q8TDT2,GPR152
+G-protein coupled receptor 1 family,Q6NV75,GPR153
+G-protein coupled receptor 1 family,P30968,GNRHR
+G-protein coupled receptor 1 family,Q9UJ42,GPR160
+G-protein coupled receptor 1 family,O00155,GPR25
+G-protein coupled receptor 1 family,Q9Y2T6,GPR55
+G-protein coupled receptor 1 family,P47775,GPR12
+G-protein coupled receptor 1 family,Q9UPC5,GPR34
+G-protein coupled receptor 1 family,Q9HBX8,LGR6
+G-protein coupled receptor 1 family,P32245,MC4R
+G-protein coupled receptor 1 family,Q96AM1,MRGPRF
+G-protein coupled receptor 1 family,Q8NGX5,OR10K1
+G-protein coupled receptor 1 family,P41146,OPRL1
+G-protein coupled receptor 1 family,Q8NGQ6,OR9I1
+G-protein coupled receptor 1 family,Q8NH02,OR2T29
+G-protein coupled receptor 1 family,Q9H346,OR52D1
+G-protein coupled receptor 1 family,Q8NGP9,OR5AR1
+G-protein coupled receptor 1 family,Q8NGL1,OR5D18
+G-protein coupled receptor 1 family,Q14439,GPR176
+G-protein coupled receptor 1 family,Q99527,GPER1
+G-protein coupled receptor 1 family,P49685,GPR15
+G-protein coupled receptor 1 family,Q99680,GPR22
+G-protein coupled receptor 1 family,O00270,GPR31
+G-protein coupled receptor 1 family,O43194,GPR39
+G-protein coupled receptor 1 family,Q9Y2T5,GPR52
+G-protein coupled receptor 1 family,P46093,GPR4
+G-protein coupled receptor 1 family,P30550,GRPR
+G-protein coupled receptor 1 family,Q8N0Y5,OR8I2
+G-protein coupled receptor 1 family,Q6IF36,OR8G2P
+G-protein coupled receptor 1 family,Q8NGM8,OR6M1
+G-protein coupled receptor 1 family,Q8NH51,OR8K3
+G-protein coupled receptor 1 family,Q15612,OR1Q1
+G-protein coupled receptor 1 family,O76001,OR2J3
+G-protein coupled receptor 1 family,P35408,PTGER4
+G-protein coupled receptor 1 family,P04201,MAS1
+G-protein coupled receptor 1 family,Q96LB0,MRGPRX3
+G-protein coupled receptor 1 family,Q9HB89,NMUR1
+G-protein coupled receptor 1 family,P43119,PTGIR
+G-protein coupled receptor 1 family,Q9Y5X5,NPFFR2
+G-protein coupled receptor 1 family,A6NM76,OR6C76
+G-protein coupled receptor 1 family,Q8NGQ5,OR9Q1
+G-protein coupled receptor 1 family,Q8NGA5,OR10H4
+G-protein coupled receptor 1 family,Q8NGW6,OR6K6
+G-protein coupled receptor 1 family,Q8NGQ4,OR10Q1
+G-protein coupled receptor 1 family,Q9H209,OR10A4
+G-protein coupled receptor 1 family,Q9Y5N1,HRH3
+G-protein coupled receptor 1 family,Q8WZ84,OR8D1
+G-protein coupled receptor 1 family,Q8NGM9,OR8D4
+G-protein coupled receptor 1 family,Q96RA2,OR7D2
+G-protein coupled receptor 1 family,Q9UHM6,OPN4
+G-protein coupled receptor 1 family,Q8NGG5,OR8K1
+G-protein coupled receptor 1 family,Q6U736,OPN5
+G-protein coupled receptor 1 family,Q8NGA8,OR4F17
+G-protein coupled receptor 1 family,Q96R30,OR2V2
+G-protein coupled receptor 1 family,P25116,F2R
+G-protein coupled receptor 1 family,Q8NGT7,OR2A12
+G-protein coupled receptor 1 family,Q8NGS7,OR13C8
+G-protein coupled receptor 1 family,Q8NGS6,OR13C3
+G-protein coupled receptor 1 family,Q8NH48,OR5B3
+G-protein coupled receptor 1 family,Q8TDS4,HCAR2
+G-protein coupled receptor 1 family,Q9H3N8,HRH4
+G-protein coupled receptor 1 family,Q9H1C0,LPAR5
+G-protein coupled receptor 1 family,Q15722,LTB4R
+G-protein coupled receptor 1 family,P33032,MC5R
+G-protein coupled receptor 1 family,P25929,NPY1R
+G-protein coupled receptor 1 family,Q15761,NPY5R
+G-protein coupled receptor 1 family,A0A0X1KG70,OR4M2
+G-protein coupled receptor 1 family,Q8NGU2,OR9A4
+G-protein coupled receptor 1 family,Q8NH69,OR5W2
+G-protein coupled receptor 1 family,Q9GZK7,OR11A1
+G-protein coupled receptor 1 family,Q8NH63,OR51H1
+G-protein coupled receptor 1 family,Q8NHC5,OR14A16
+G-protein coupled receptor 1 family,Q8IYL9,GPR65
+G-protein coupled receptor 1 family,Q9BXB1,LGR4
+G-protein coupled receptor 1 family,P48039,MTNR1A
+G-protein coupled receptor 1 family,Q9UBY5,LPAR3
+G-protein coupled receptor 1 family,P49146,NPY2R
+G-protein coupled receptor 1 family,P50391,NPY4R
+G-protein coupled receptor 1 family,O95665,NTSR2
+G-protein coupled receptor 1 family,P49683,PRLHR
+G-protein coupled receptor 1 family,Q6W5P4,NPSR1
+G-protein coupled receptor 1 family,Q9GZQ6,NPFFR1
+G-protein coupled receptor 1 family,Q8NH10,OR8U1
+G-protein coupled receptor 1 family,O60404,OR10H3
+G-protein coupled receptor 1 family,Q8NH19,OR10AG1
+G-protein coupled receptor 1 family,Q9P1Q5,OR1A1
+G-protein coupled receptor 1 family,Q8NGS3,OR1J1
+G-protein coupled receptor 1 family,Q9Y585,OR1A2
+G-protein coupled receptor 1 family,Q8NGK6,OR52I1
+G-protein coupled receptor 1 family,Q8NGJ1,OR4D6
+G-protein coupled receptor 1 family,O43869,OR2T1
+G-protein coupled receptor 1 family,Q8NH83,OR4A5
+G-protein coupled receptor 1 family,Q8NHC8,OR2T6
+G-protein coupled receptor 1 family,P30559,OXTR
+G-protein coupled receptor 1 family,Q9Y5Y4,PTGDR2
+G-protein coupled receptor 1 family,Q13258,PTGDR
+G-protein coupled receptor 1 family,P30989,NTSR1
+G-protein coupled receptor 1 family,Q8NGN1,OR6T1
+G-protein coupled receptor 1 family,O60412,OR7C2
+G-protein coupled receptor 1 family,Q8NH80,OR10D3
+G-protein coupled receptor 1 family,O60403,OR10H2
+G-protein coupled receptor 1 family,Q8NGG0,OR8J3
+G-protein coupled receptor 1 family,O95047,OR2A4
+G-protein coupled receptor 1 family,Q8NH03,OR2T3
+G-protein coupled receptor 1 family,Q8NH37,OR4C3
+G-protein coupled receptor 1 family,Q96R08,OR5B12
+G-protein coupled receptor 1 family,Q8NGV6,OR5H6
+G-protein coupled receptor 1 family,Q8NGD2,OR4K2
+G-protein coupled receptor 1 family,A6NL26,OR5B21
+G-protein coupled receptor 1 family,Q8NGR4,OR5C1
+G-protein coupled receptor 1 family,Q8NGJ7,OR51A2
+G-protein coupled receptor 1 family,Q8NGK2,OR52B4
+G-protein coupled receptor 1 family,A6NM03,OR2AG2
+G-protein coupled receptor 1 family,P35367,HRH1
+G-protein coupled receptor 1 family,O75473,LGR5
+G-protein coupled receptor 1 family,Q9H210,OR2D2
+G-protein coupled receptor 1 family,Q15743,GPR68
+G-protein coupled receptor 1 family,O76099,OR7C1
+G-protein coupled receptor 1 family,Q8NGA1,OR1M1
+G-protein coupled receptor 1 family,Q9UGF5,OR14J1
+G-protein coupled receptor 1 family,Q8NGV0,OR2Y1
+G-protein coupled receptor 1 family,Q8NG85,OR2L3
+G-protein coupled receptor 1 family,Q9GZK4,OR2H1
+G-protein coupled receptor 1 family,Q6IF82,OR4A47
+G-protein coupled receptor 1 family,Q8NGF4,OR5AP2
+G-protein coupled receptor 1 family,Q96R47,OR2A14
+G-protein coupled receptor 1 family,Q6IF63,OR52W1
+G-protein coupled receptor 1 family,O43613,HCRTR1
+G-protein coupled receptor 1 family,P51684,CCR6
+G-protein coupled receptor 1 family,P32248,CCR7
+G-protein coupled receptor 1 family,P47211,GALR1
+G-protein coupled receptor 1 family,P29371,TACR3
+G-protein coupled receptor 1 family,Q8NH94,OR1L1
+G-protein coupled receptor 1 family,Q15622,OR7A5
+G-protein coupled receptor 1 family,O76000,OR2B3
+G-protein coupled receptor 1 family,Q8NH93,OR1L3
+G-protein coupled receptor 1 family,P08100,RHO
+G-protein coupled receptor 1 family,Q8NH50,OR8K5
+G-protein coupled receptor 1 family,Q8NGR3,OR1K1
+G-protein coupled receptor 1 family,Q8NGB9,OR4F6
+G-protein coupled receptor 1 family,Q8NGF9,OR4X2
+G-protein coupled receptor 1 family,Q6IEU7,OR5M10
+G-protein coupled receptor 1 family,Q8NGC6,OR4K17
+G-protein coupled receptor 1 family,Q9BPV8,P2RY13
+G-protein coupled receptor 1 family,Q8NG78,OR8G5
+G-protein coupled receptor 1 family,Q8NGC3,OR10G2
+G-protein coupled receptor 1 family,Q8NGQ1,OR9G4
+G-protein coupled receptor 1 family,Q8NGQ3,OR1S2
+G-protein coupled receptor 1 family,P47890,OR1G1
+G-protein coupled receptor 1 family,Q8NGR5,OR1L4
+G-protein coupled receptor 1 family,Q8NGG7,OR8A1
+G-protein coupled receptor 1 family,A6NND4,OR2AT4
+G-protein coupled receptor 1 family,Q8NH61,OR51F2
+G-protein coupled receptor 1 family,Q8NGD1,OR4N2
+G-protein coupled receptor 1 family,Q9NQN1,OR2S2
+G-protein coupled receptor 1 family,Q9H2C5,OR52A5
+G-protein coupled receptor 1 family,Q8NH72,OR4C6
+G-protein coupled receptor 1 family,A6NDH6,OR5H15
+G-protein coupled receptor 1 family,Q96RD2,OR52B2
+G-protein coupled receptor 1 family,B2RN74,OR11H12
+G-protein coupled receptor 1 family,Q8NH18,OR5J2
+G-protein coupled receptor 1 family,Q96RD3,OR52E6
+G-protein coupled receptor 1 family,Q8NGN0,OR4D5
+G-protein coupled receptor 1 family,P41968,MC3R
+G-protein coupled receptor 1 family,Q96LA9,MRGPRX4
+G-protein coupled receptor 1 family,P49286,MTNR1B
+G-protein coupled receptor 1 family,O14581,OR7A17
+G-protein coupled receptor 1 family,Q6IFH4,OR6B2
+G-protein coupled receptor 1 family,Q8NGE0,OR10AD1
+G-protein coupled receptor 1 family,A6NL08,OR6C75
+G-protein coupled receptor 1 family,Q96R48,OR2A5
+G-protein coupled receptor 1 family,Q9H207,OR10A5
+G-protein coupled receptor 1 family,Q8N349,OR2L13
+G-protein coupled receptor 1 family,Q8NGE2,OR2AP1
+G-protein coupled receptor 1 family,Q9NZP5,OR5AC2
+G-protein coupled receptor 1 family,Q8NGJ4,OR52E2
+G-protein coupled receptor 1 family,Q8NH73,OR4S2
+G-protein coupled receptor 1 family,Q9H205,OR2AG1
+G-protein coupled receptor 1 family,Q96R27,OR2M4
+G-protein coupled receptor 1 family,Q6IEV9,OR4C11
+G-protein coupled receptor 1 family,Q8NH56,OR52N5
+G-protein coupled receptor 1 family,Q8NGP6,OR5M8
+G-protein coupled receptor 1 family,Q9UGF6,OR5V1
+G-protein coupled receptor 1 family,Q8NGP0,OR4C13
+G-protein coupled receptor 1 family,P49019,HCAR3
+G-protein coupled receptor 1 family,A6NF89,OR6C6
+G-protein coupled receptor 1 family,Q8NH40,OR6S1
+G-protein coupled receptor 1 family,Q8NGY3,OR6K3
+G-protein coupled receptor 1 family,Q9NZP2,OR6C2
+G-protein coupled receptor 1 family,Q8NGR8,OR1L8
+G-protein coupled receptor 1 family,Q8NGC0,OR5AU1
+G-protein coupled receptor 1 family,Q9GZK6,OR2J1
+G-protein coupled receptor 1 family,Q9Y3N9,OR2W1
+G-protein coupled receptor 1 family,Q8NGZ0,OR2AJ1
+G-protein coupled receptor 1 family,Q96R09,OR5B2
+G-protein coupled receptor 1 family,Q8NGF8,OR4B1
+G-protein coupled receptor 1 family,A6NHA9,OR4C46
+G-protein coupled receptor 1 family,Q8NGF1,OR52R1
+G-protein coupled receptor 1 family,Q15077,P2RY6
+G-protein coupled receptor 1 family,Q8NGS0,OR1N1
+G-protein coupled receptor 1 family,Q8NH74,OR10A6
+G-protein coupled receptor 1 family,Q8NGE1,OR6C4
+G-protein coupled receptor 1 family,O60431,OR1I1
+G-protein coupled receptor 1 family,P34982,OR1D2
+G-protein coupled receptor 1 family,Q9H2C8,OR51V1
+G-protein coupled receptor 1 family,A6NGY5,OR51F1
+G-protein coupled receptor 1 family,Q8NGD4,OR4K1
+G-protein coupled receptor 1 family,Q8NGB2,OR4C5
+G-protein coupled receptor 1 family,Q8N127,OR5AS1
+G-protein coupled receptor 1 family,Q8NH01,OR2T11
+G-protein coupled receptor 1 family,Q9H228,S1PR5
+G-protein coupled receptor 1 family,Q8NH41,OR4K15
+G-protein coupled receptor 1 family,Q8NGC9,OR11H4
+G-protein coupled receptor 1 family,P0DN80,OR51F1
+G-protein coupled receptor 1 family,Q8NGJ0,OR5A1
+G-protein coupled receptor 1 family,Q8NGL3,OR5D14
+G-protein coupled receptor 1 family,Q8NGJ6,OR51A4
+G-protein coupled receptor 1 family,Q6IFG1,OR52E8
+G-protein coupled receptor 1 family,Q8NGX2,OR2T35
+G-protein coupled receptor 1 family,O00398,P2RY10
+G-protein coupled receptor 1 family,P35346,SSTR5
+G-protein coupled receptor 1 family,P31391,SSTR4
+G-protein coupled receptor 1 family,A6NCV1,OR6C74
+G-protein coupled receptor 1 family,Q8NGT1,OR2K2
+G-protein coupled receptor 1 family,Q8NHB8,OR5K2
+G-protein coupled receptor 1 family,Q8NH70,OR4A16
+G-protein coupled receptor 1 family,Q8WZ92,OR5P2
+G-protein coupled receptor 1 family,A6NDL8,OR6C68
+G-protein coupled receptor 1 family,Q6IF00,OR2T2
+G-protein coupled receptor 1 family,Q8NH54,OR56A3
+G-protein coupled receptor 1 family,A6NMS3,OR5K4
+G-protein coupled receptor 1 family,Q8NG84,OR2AK2
+G-protein coupled receptor 1 family,Q8NG98,OR7D4
+G-protein coupled receptor 1 family,Q8NGY6,OR6N2
+G-protein coupled receptor 1 family,Q8NGN5,OR10G8
+G-protein coupled receptor 1 family,Q8NGG4,OR8H1
+G-protein coupled receptor 1 family,Q8NGL2,OR5L1
+G-protein coupled receptor 1 family,Q8NH76,OR56B4
+G-protein coupled receptor 1 family,Q8NGL0,OR5L2
+G-protein coupled receptor 1 family,Q8NGS8,OR13C5
+G-protein coupled receptor 1 family,A6NJZ3,OR6C65
+G-protein coupled receptor 1 family,Q8NH42,OR4K13
+G-protein coupled receptor 1 family,O95221,OR5F1
+G-protein coupled receptor 1 family,P30872,SSTR1
+G-protein coupled receptor 1 family,Q13304,GPR17
+G-protein coupled receptor 1 family,Q9HC97,GPR35
+G-protein coupled receptor 1 family,Q9NS67,GPR27
+G-protein coupled receptor 1 family,Q8NGY2,OR6K2
+G-protein coupled receptor 1 family,Q6IF99,OR10K2
+G-protein coupled receptor 1 family,Q8NH87,OR9G1
+G-protein coupled receptor 1 family,P58181,OR10A3
+G-protein coupled receptor 1 family,Q8NH92,OR1S1
+G-protein coupled receptor 1 family,P47888,OR3A3
+G-protein coupled receptor 1 family,Q8NG94,OR11H1
+G-protein coupled receptor 1 family,Q8NH53,OR52N1
+G-protein coupled receptor 1 family,P41143,OPRD1
+G-protein coupled receptor 1 family,Q8NGK0,OR51G2
+G-protein coupled receptor 1 family,Q8NGX1,OR2T34
+G-protein coupled receptor 1 family,Q8NGY9,OR2L8
+G-protein coupled receptor 1 family,Q96RD1,OR6C1
+G-protein coupled receptor 1 family,Q8NH79,OR6X1
+G-protein coupled receptor 1 family,Q5JRS4,OR10J3
+G-protein coupled receptor 1 family,A4D2G3,OR2A25
+G-protein coupled receptor 1 family,Q96R28,OR2M2
+G-protein coupled receptor 1 family,Q8NGV5,OR13D1
+G-protein coupled receptor 1 family,Q8NGL4,OR5D13
+G-protein coupled receptor 1 family,O76002,OR2J2
+G-protein coupled receptor 1 family,Q8NGZ2,OR14K1
+G-protein coupled receptor 1 family,Q8NGK3,OR52K2
+G-protein coupled receptor 1 family,O95918,OR2H2
+G-protein coupled receptor 1 family,Q8NGN2,OR10S1
+G-protein coupled receptor 1 family,Q8NGP3,OR5M9
+G-protein coupled receptor 1 family,Q86SM8,MRGPRE
+G-protein coupled receptor 1 family,Q8NGW1,OR6B3
+G-protein coupled receptor 1 family,Q8NGE9,OR9Q2
+G-protein coupled receptor 1 family,Q8N146,OR8H3
+G-protein coupled receptor 1 family,P30953,OR1E1
+G-protein coupled receptor 1 family,Q8TCB6,OR51E1
+G-protein coupled receptor 1 family,Q8NGY0,OR10X1
+G-protein coupled receptor 1 family,Q9HBX9,RXFP1
+G-protein coupled receptor 1 family,Q8NGE8,OR4D9
+G-protein coupled receptor 1 family,Q8NGL7,OR4P4
+G-protein coupled receptor 1 family,Q13606,OR5I1
+G-protein coupled receptor 1 family,Q8NHC7,OR14C36
+G-protein coupled receptor 1 family,Q8NGI8,OR5AN1
+G-protein coupled receptor 1 family,Q9Y5P0,OR51B4
+G-protein coupled receptor 1 family,Q96R67,OR4C12
+G-protein coupled receptor 1 family,P43115,PTGER3
+G-protein coupled receptor 1 family,P34981,TRHR
+G-protein coupled receptor 1 family,Q9Y4A9,OR10H1
+G-protein coupled receptor 1 family,Q8NGN6,OR10G7
+G-protein coupled receptor 1 family,Q8NGE7,OR9K2
+G-protein coupled receptor 1 family,Q8NG81,OR2M7
+G-protein coupled receptor 1 family,P47881,OR3A1
+G-protein coupled receptor 1 family,Q8N0Y3,OR4N4
+G-protein coupled receptor 1 family,Q8NH16,OR2L2
+G-protein coupled receptor 1 family,O43614,HCRTR2
+G-protein coupled receptor 1 family,O95222,OR6A2
+G-protein coupled receptor 1 family,Q8NG99,OR7G2
+G-protein coupled receptor 1 family,Q8NHC4,OR10J5
+G-protein coupled receptor 1 family,Q13607,OR2F1
+G-protein coupled receptor 1 family,A6NHG9,OR5H14
+G-protein coupled receptor 1 family,Q9H255,OR51E2
+G-protein coupled receptor 1 family,P58182,OR12D2
+G-protein coupled receptor 1 family,Q8NGD3,OR4K5
+G-protein coupled receptor 1 family,Q8NGY1,OR10Z1
+G-protein coupled receptor 1 family,Q8NGH7,OR52L1
+G-protein coupled receptor 1 family,Q8NGK5,OR52M1
+G-protein coupled receptor 1 family,P58180,OR4D2
+G-protein coupled receptor 1 family,Q96P68,OXGR1
+G-protein coupled receptor 1 family,P21452,TACR2
+G-protein coupled receptor 1 family,Q8NGX8,OR6Y1
+G-protein coupled receptor 1 family,Q8NGP2,OR8J1
+G-protein coupled receptor 1 family,Q9UGF7,OR12D3
+G-protein coupled receptor 1 family,Q8NG92,OR13H1
+G-protein coupled receptor 1 family,Q8NGH9,OR52E4
+G-protein coupled receptor 1 family,Q8NH49,OR4X1
+G-protein coupled receptor 1 family,Q8NG97,OR2Z1
+G-protein coupled receptor 1 family,Q8NGH8,OR56A4
+G-protein coupled receptor 1 family,Q8TDS5,OXER1
+G-protein coupled receptor 1 family,Q8WXD0,RXFP2
+G-protein coupled receptor 1 family,Q9P1P5,TAAR2
+G-protein coupled receptor 1 family,Q8NGC1,OR11G2
+G-protein coupled receptor 1 family,Q8NH59,OR51Q1
+G-protein coupled receptor 1 family,Q8NGG2,OR5T2
+G-protein coupled receptor 1 family,Q8NGJ2,OR52H1
+G-protein coupled receptor 1 family,A6NKK0,OR5H1
+G-protein coupled receptor 1 family,Q99677,LPAR4
+G-protein coupled receptor 1 family,P43657,LPAR6
+G-protein coupled receptor 1 family,Q96RC9,OR8B4
+G-protein coupled receptor 1 family,Q8N628,OR2C3
+G-protein coupled receptor 1 family,Q8NGX9,OR6P1
+G-protein coupled receptor 1 family,Q8NGE5,OR10A7
+G-protein coupled receptor 1 family,Q8NGC2,OR4E2
+G-protein coupled receptor 1 family,Q8NGI7,OR10V1
+G-protein coupled receptor 1 family,Q8NGF7,OR5B17
+G-protein coupled receptor 1 family,Q8NGL6,OR4A15
+G-protein coupled receptor 1 family,Q8NH05,OR4Q3
+G-protein coupled receptor 1 family,Q96R54,OR14A2
+G-protein coupled receptor 1 family,Q8NGS4,OR13F1
+G-protein coupled receptor 1 family,Q8NG75,OR5T1
+G-protein coupled receptor 1 family,Q8NGZ3,OR13G1
+G-protein coupled receptor 1 family,Q8NGZ5,OR2G2
+G-protein coupled receptor 1 family,Q8NGP4,OR5M3
+G-protein coupled receptor 1 family,Q7Z3T1,OR2W3
+G-protein coupled receptor 1 family,Q8NGI3,OR56B1
+Carbamoyl-phosphate synthase,P27708,CAD
+Carbamoyl-phosphate synthase,P31327,CPS1
+glucose-6-phosphatase family,P35575,G6pC1
+glucose-6-phosphatase family,Q9NQR9,G6PC2
+glucose-6-phosphatase family,Q9BUM1,G6PC3
+DDB1- and CUL4-associated factor 8-like,A6NGE4,DCAF8L1
+DDB1- and CUL4-associated factor 8-like,P0C7V8,DCAF8L2
+DDB1- and CUL4-associated factor 8-like,Q58WW2,DCAF6
+DDB1- and CUL4-associated factor 8-like,Q5TAQ9,DCAF8
+DDB1- and CUL4-associated factor 8-like,Q8N5D0,WDTC1
+DDB1- and CUL4-associated factor 8-like,Q96JK2,DCAF5
+PTEN phosphatase protein family,P60484,PTEN
+PTEN phosphatase protein family,Q68CZ2,TNS3
+PTEN phosphatase protein family,Q9HBL0,TNS1
+PTEN phosphatase protein family,Q63HR2,TNS2
+PTEN phosphatase protein family,Q8IZW8,TNS4
+LDLR family,Q5T700,LDLRAD1
+LDLR family,Q7Z4F1,LRP10
+LDLR family,Q07954,LRP1
+LDLR family,P98164,LRP2
+LDLR family,O75096,LRP4
+LDLR family,O75197,LRP5
+LDLR family,O75581,LRP6
+LDLR family,Q14114,LRP8
+LDLR family,P01130,LDLR
+LDLR family,Q9NZR2,LRP1B
+LDLR family,Q9Y561,LRP12
+LDLR family,O75074,LRP3
+LDLR family,Q86VZ4,LRP11
+LDLR family,Q86YD5,LDLRAD3
+WD repeat neurobeachin family,Q6ZNJ1,NBEAL2
+WD repeat neurobeachin family,Q8NFP9,NBEAL1
+WD repeat neurobeachin family,Q6ZS30,NBEA
+Cadherin,P12830,CDH1
+Cadherin,P19022,CDH2
+Cadherin,P22223,CDH3
+Cadherin,P33151,CDH5
+Cadherin,P55283,CDH4
+Cadherin,P55285,CDH6
+Cadherin,P55286,CDH8
+Cadherin,P55287,CDH11
+Cadherin,P55289,CDH12
+Cadherin,P55290,CDH13
+Cadherin,P55291,CDH15
+Cadherin,Q12864,CDH17
+Cadherin,Q13634,CDH18
+Cadherin,Q86UP0,CDH24
+Cadherin,Q8IXH8,CDH26
+Cadherin,Q96JQ0,DCHS1
+Cadherin,Q9BYE9,CDHR2
+Cadherin,Q9H159,CDH19
+Cadherin,Q9HBT6,CDH20
+Cadherin,Q9UJ99,CDH22
+Cadherin,Q9ULB4,CDH9
+Cadherin,Q9ULB5,CDH7
+Cadherin,Q9Y6N8,CDH10
+adenomatous polyposis coli (APC) family,O95996,APC2
+adenomatous polyposis coli (APC) family,P25054,APC
+HNF1 homeobox family,P20823,HNF1A
+HNF1 homeobox family,P35680,HNF1B
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,Q01668,CACNA1D
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,O95180,CACNA1H
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,Q15878,CACNA1E
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,Q9P0X4,CACNA1I
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,O60840,CACNA1F
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,O00555,CACNA1A
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,Q00975,CACNA1B
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,Q13936,CACNA1C
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,O43497,CACNA1G
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,Q13698,CACNA1S
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,Q9ULQ1,TPCN1
+calcium channel alpha-1 subunit (TC 1.A.1.11) family,Q8NHX9,TPCN2
+TET family,Q6N021,TET2
+TET family,P35637,FUS
+TET family,Q01844,EWSR1
+TET family,Q92804,TAF15
+TET family,Q8NFU7,TET1
+TET family,O43151,TET3
+Tyr protein kinase family,P35916,FLT4
+Tyr protein kinase family,P08922,ROS1
+Tyr protein kinase family,P07949,RET
+Tyr protein kinase family,Q01973,ROR1
+Tyr protein kinase family,Q06418,TYRO3
+Tyr protein kinase family,P30530,AXL
+Tyr protein kinase family,Q01974,ROR2
+Tyr protein kinase family,P29597,TYK2
+Tyr protein kinase family,P07947,YES1
+Tyr protein kinase family,P35968,KDR
+Tyr protein kinase family,P43403,ZAP70
+Tyr protein kinase family,P42681,TXK
+Tyr protein kinase family,P17948,FLT1
+Tyr protein kinase family,Q02763,TEK
+Tyr protein kinase family,Q13470,TNK1
+Tyr protein kinase family,P07333,CSF1R
+Tyr protein kinase family,P51813,BMX
+Tyr protein kinase family,Q08345,DDR1
+Tyr protein kinase family,Q16832,DDR2
+Tyr protein kinase family,P00533,EGFR
+Tyr protein kinase family,P51451,BLK
+Tyr protein kinase family,P29323,EPHB2
+Tyr protein kinase family,P54764,EPHA4
+Tyr protein kinase family,Q05397,PTK2
+Tyr protein kinase family,Q15303,ERBB4
+Tyr protein kinase family,P08069,IGF1R
+Tyr protein kinase family,P29320,EPHA3
+Tyr protein kinase family,P54762,EPHB1
+Tyr protein kinase family,P22455,FGFR4
+Tyr protein kinase family,P00519,ABL1
+Tyr protein kinase family,Q06187,BTK
+Tyr protein kinase family,P07332,FES
+Tyr protein kinase family,P29322,EPHA8
+Tyr protein kinase family,Q9UF33,EPHA6
+Tyr protein kinase family,P54756,EPHA5
+Tyr protein kinase family,Q15375,EPHA7
+Tyr protein kinase family,P36888,FLT3
+Tyr protein kinase family,Q14289,PTK2B
+Tyr protein kinase family,P42685,FRK
+Tyr protein kinase family,Q9UM73,ALK
+Tyr protein kinase family,P42684,ABL2
+Tyr protein kinase family,Q07912,TNK2
+Tyr protein kinase family,P41240,CSK
+Tyr protein kinase family,P29317,EPHA2
+Tyr protein kinase family,P04626,ERBB2
+Tyr protein kinase family,P21860,ERBB3
+Tyr protein kinase family,P09769,FGR
+Tyr protein kinase family,P06239,LCK
+Tyr protein kinase family,Q8IWU2,LMTK2
+Tyr protein kinase family,P54753,EPHB3
+Tyr protein kinase family,P23458,JAK1
+Tyr protein kinase family,O60674,JAK2
+Tyr protein kinase family,P52333,JAK3
+Tyr protein kinase family,P06213,INSR
+Tyr protein kinase family,P07948,LYN
+Tyr protein kinase family,P29376,LTK
+Tyr protein kinase family,P42679,MATK
+Tyr protein kinase family,Q08881,ITK
+Tyr protein kinase family,P16591,FER
+Tyr protein kinase family,O15197,EPHB6
+Tyr protein kinase family,P54760,EPHB4
+Tyr protein kinase family,P11362,FGFR1
+Tyr protein kinase family,P08631,HCK
+Tyr protein kinase family,P06241,FYN
+Tyr protein kinase family,P21709,EPHA1
+Tyr protein kinase family,P14616,INSRR
+Tyr protein kinase family,Q6ZMQ8,AATK
+Tyr protein kinase family,Q96Q04,LMTK3
+Tyr protein kinase family,P08581,MET
+Tyr protein kinase family,Q12866,MERTK
+Tyr protein kinase family,P21802,FGFR2
+Tyr protein kinase family,P10721,KIT
+Tyr protein kinase family,P22607,FGFR3
+Tyr protein kinase family,Q5JZY3,EPHA10
+Tyr protein kinase family,Q16288,NTRK3
+Tyr protein kinase family,P04629,NTRK1
+Tyr protein kinase family,P43405,SYK
+Tyr protein kinase family,Q16620,NTRK2
+Tyr protein kinase family,P09619,PDGFRB
+Tyr protein kinase family,Q9H3Y6,SRMS
+Tyr protein kinase family,P34925,RYK
+Tyr protein kinase family,P12931,SRC
+Tyr protein kinase family,Q04912,MST1R
+Tyr protein kinase family,P35590,TIE1
+Tyr protein kinase family,P42680,TEC
+Tyr protein kinase family,P16234,PDGFRA
+Tyr protein kinase family,Q13308,PTK7
+Tyr protein kinase family,Q13882,PTK6
+Tyr protein kinase family,O15146,MUSK
+Tyr protein kinase family,Q6J9G0,STYK1
+Ras GTPase-activating proteins,O95294,RASAL1
+Ras GTPase-activating proteins,P20936,RASA1
+Ras GTPase-activating proteins,P21359,NF1
+Ras GTPase-activating proteins,Q14644,RASA3
+Ras GTPase-activating proteins,Q15283,RASA2
+Ras GTPase-activating proteins,Q5VWQ8,DAB2IP
+Ras GTPase-activating proteins,Q86YV0,RASAL3
+Ras GTPase-activating proteins,Q96PV0,SYNGAP1
+Ras GTPase-activating proteins,Q9UJF2,RASAL2
+CBFA2T family,O75081,CBFA2T3
+CBFA2T family,O43439,CBFA2T2
+CBFA2T family,Q06455,RUNX1T1
+Ser/Thr protein kinase family,Q9UKI8,TLK1
+Ser/Thr protein kinase family,P30291,WEE1
+Ser/Thr protein kinase family,O75385,ULK1
+Ser/Thr protein kinase family,Q9NRP7,STK36
+Ser/Thr protein kinase family,P33981,TTK
+Ser/Thr protein kinase family,Q8TDR2,STK35
+Ser/Thr protein kinase family,Q9BXU1,STK31
+Ser/Thr protein kinase family,O00444,PLK4
+Ser/Thr protein kinase family,Q6PHR2,ULK3
+Ser/Thr protein kinase family,Q9UHD2,TBK1
+Ser/Thr protein kinase family,P0C1S8,WEE2
+Ser/Thr protein kinase family,Q96C45,ULK4
+Ser/Thr protein kinase family,Q86UE8,TLK2
+Ser/Thr protein kinase family,O75716,STK16
+Ser/Thr protein kinase family,Q9BYP7,WNK3
+Ser/Thr protein kinase family,Q9H4A3,WNK1
+Ser/Thr protein kinase family,Q96J92,WNK4
+Ser/Thr protein kinase family,Q9Y3S1,WNK2
+Ser/Thr protein kinase family,Q9NSY1,BMP2K
+Ser/Thr protein kinase family,O60566,BUB1B
+Ser/Thr protein kinase family,O14965,AURKA
+Ser/Thr protein kinase family,O15111,CHUK
+Ser/Thr protein kinase family,O14920,IKBKB
+Ser/Thr protein kinase family,O43683,BUB1
+Ser/Thr protein kinase family,P68400,CSNK2A1
+Ser/Thr protein kinase family,P19784,CSNK2A2
+Ser/Thr protein kinase family,Q9NZJ5,EIF2AK3
+Ser/Thr protein kinase family,Q76MJ5,ERN2
+Ser/Thr protein kinase family,Q2M2I8,AAK1
+Ser/Thr protein kinase family,O75460,ERN1
+Ser/Thr protein kinase family,P00540,MOS
+Ser/Thr protein kinase family,O00311,CDC7
+Ser/Thr protein kinase family,Q6XUX3,DSTYK
+Ser/Thr protein kinase family,Q9BQI3,EIF2AK1
+Ser/Thr protein kinase family,P19525,EIF2AK2
+Ser/Thr protein kinase family,Q9P2K8,EIF2AK4
+Ser/Thr protein kinase family,O14976,GAK
+Ser/Thr protein kinase family,Q96RR4,CAMKK2
+Ser/Thr protein kinase family,Q96S38,RPS6KC1
+Ser/Thr protein kinase family,Q14164,IKBKE
+Ser/Thr protein kinase family,Q99640,PKMYT1
+Ser/Thr protein kinase family,Q99570,PIK3R4
+Ser/Thr protein kinase family,Q9UHY1,NRBP1
+Ser/Thr protein kinase family,Q8N5S9,CAMKK1
+Ser/Thr protein kinase family,P53350,PLK1
+Ser/Thr protein kinase family,Q8IYT8,ULK2
+Ser/Thr protein kinase family,Q9H4B4,PLK3
+Ser/Thr protein kinase family,Q9NYY3,PLK2
+Ser/Thr protein kinase family,Q8WU08,STK32A
+Ser/Thr protein kinase family,Q9BXM7,PINK1
+Ser/Thr protein kinase family,P0C264,SBK3
+Ser/Thr protein kinase family,Q86UX6,STK32C
+Ser/Thr protein kinase family,Q8N165,PDIK1L
+Ser/Thr protein kinase family,Q9NY57,STK32B
+Ser/Thr protein kinase family,Q9NSY0,NRBP2
+Ser/Thr protein kinase family,Q9Y6S9,RPS6KL1
+Ser/Thr protein kinase family,Q8NE28,STKLD1
+Ser/Thr protein kinase family,P0C263,SBK2
+Ezrin/radixin/moesin-like,A2A2Y4,FRMD3
+Ezrin/radixin/moesin-like,O43491,EPB41L2
+Ezrin/radixin/moesin-like,O94887,FARP2
+Ezrin/radixin/moesin-like,P11171,EPB41
+Ezrin/radixin/moesin-like,P15311,EZR
+Ezrin/radixin/moesin-like,P26038,MSN
+Ezrin/radixin/moesin-like,P35240,NF2
+Ezrin/radixin/moesin-like,P35241,RDX
+Ezrin/radixin/moesin-like,Q7Z6J6,FRMD5
+Ezrin/radixin/moesin-like,Q8WY64,MYLIP
+Ezrin/radixin/moesin-like,Q9H329,EPB41L4B
+Ezrin/radixin/moesin-like,Q9H4G0,EPB41L1
+Ezrin/radixin/moesin-like,Q9HCM4,EPB41L5
+Ezrin/radixin/moesin-like,Q9HCS5,EPB41L4A
+Ezrin/radixin/moesin-like,Q9Y2J2,EPB41L3
+Ezrin/radixin/moesin-like,Q9Y4F1,FARP1
+clathrin heavy chain family,Q00610,CLTC
+clathrin heavy chain family,P53675,CLTCL1
+C5-methyltransferase family,O14717,TRDMT1
+C5-methyltransferase family,Q9Y6K1,DNMT3A
+C5-methyltransferase family,Q9UBC3,DNMT3B
+C5-methyltransferase family,P26358,DNMT1
+STE Ser/Thr protein kinase family,Q7L7X3,TAOK1
+STE Ser/Thr protein kinase family,Q9P289,STK26
+STE Ser/Thr protein kinase family,Q9C0K7,STRADB
+STE Ser/Thr protein kinase family,Q9UKE5,TNIK
+STE Ser/Thr protein kinase family,Q9UEW8,STK39
+STE Ser/Thr protein kinase family,Q13177,PAK2
+STE Ser/Thr protein kinase family,Q13153,PAK1
+STE Ser/Thr protein kinase family,Q96KB5,PBK
+STE Ser/Thr protein kinase family,Q9H2G2,SLK
+STE Ser/Thr protein kinase family,O94804,STK10
+STE Ser/Thr protein kinase family,Q9UL54,TAOK2
+STE Ser/Thr protein kinase family,P46734,MAP2K3
+STE Ser/Thr protein kinase family,Q16584,MAP3K11
+STE Ser/Thr protein kinase family,Q6ZN16,MAP3K15
+STE Ser/Thr protein kinase family,Q9NYL2,MAP3K20
+STE Ser/Thr protein kinase family,O95382,MAP3K6
+STE Ser/Thr protein kinase family,O43318,MAP3K7
+STE Ser/Thr protein kinase family,Q8NEV4,MYO3A
+STE Ser/Thr protein kinase family,O43283,MAP3K13
+STE Ser/Thr protein kinase family,Q12852,MAP3K12
+STE Ser/Thr protein kinase family,Q13233,MAP3K1
+STE Ser/Thr protein kinase family,Q99683,MAP3K5
+STE Ser/Thr protein kinase family,Q9Y6R4,MAP3K4
+STE Ser/Thr protein kinase family,P52564,MAP2K6
+STE Ser/Thr protein kinase family,O95819,MAP4K4
+STE Ser/Thr protein kinase family,Q56UN5,MAP3K19
+STE Ser/Thr protein kinase family,Q99759,MAP3K3
+STE Ser/Thr protein kinase family,O14733,MAP2K7
+STE Ser/Thr protein kinase family,O95747,OXSR1
+STE Ser/Thr protein kinase family,Q8N4C8,MINK1
+STE Ser/Thr protein kinase family,Q9Y4K4,MAP4K5
+STE Ser/Thr protein kinase family,Q02779,MAP3K10
+STE Ser/Thr protein kinase family,Q99558,MAP3K14
+STE Ser/Thr protein kinase family,Q9Y2U5,MAP3K2
+STE Ser/Thr protein kinase family,Q5TCX8,MAP3K21
+STE Ser/Thr protein kinase family,Q8WXR4,MYO3B
+STE Ser/Thr protein kinase family,Q9H2K8,TAOK3
+STE Ser/Thr protein kinase family,P80192,MAP3K9
+STE Ser/Thr protein kinase family,Q92918,MAP4K1
+STE Ser/Thr protein kinase family,Q12851,MAP4K2
+STE Ser/Thr protein kinase family,Q02750,MAP2K1
+STE Ser/Thr protein kinase family,O00506,STK25
+STE Ser/Thr protein kinase family,Q9Y6E0,STK24
+STE Ser/Thr protein kinase family,Q7RTN6,STRADA
+STE Ser/Thr protein kinase family,Q13188,STK3
+STE Ser/Thr protein kinase family,Q8IVH8,MAP4K3
+STE Ser/Thr protein kinase family,P36507,MAP2K2
+STE Ser/Thr protein kinase family,Q13043,STK4
+STE Ser/Thr protein kinase family,Q9NQU5,PAK6
+STE Ser/Thr protein kinase family,Q9P286,PAK5
+STE Ser/Thr protein kinase family,O75914,PAK3
+STE Ser/Thr protein kinase family,Q7Z2Y5,NRK
+STE Ser/Thr protein kinase family,O96013,PAK4
+STE Ser/Thr protein kinase family,Q13163,MAP2K5
+STE Ser/Thr protein kinase family,P45985,MAP2K4
+CMGC Ser/Thr protein kinase family,Q96SB4,SRPK1
+CMGC Ser/Thr protein kinase family,Q00532,CDKL1
+CMGC Ser/Thr protein kinase family,O76039,CDKL5
+CMGC Ser/Thr protein kinase family,P50613,CDK7
+CMGC Ser/Thr protein kinase family,Q9UPZ9,CILK1
+CMGC Ser/Thr protein kinase family,P49761,CLK3
+CMGC Ser/Thr protein kinase family,P50750,CDK9
+CMGC Ser/Thr protein kinase family,Q07002,CDK18
+CMGC Ser/Thr protein kinase family,Q00526,CDK3
+CMGC Ser/Thr protein kinase family,P21127,CDK11B
+CMGC Ser/Thr protein kinase family,P49336,CDK8
+CMGC Ser/Thr protein kinase family,P49759,CLK1
+CMGC Ser/Thr protein kinase family,Q9UQ88,CDK11A
+CMGC Ser/Thr protein kinase family,Q9HAZ1,CLK4
+CMGC Ser/Thr protein kinase family,O43781,DYRK3
+CMGC Ser/Thr protein kinase family,P49760,CLK2
+CMGC Ser/Thr protein kinase family,Q13627,DYRK1A
+CMGC Ser/Thr protein kinase family,Q9NYV4,CDK12
+CMGC Ser/Thr protein kinase family,Q92630,DYRK2
+CMGC Ser/Thr protein kinase family,Q92772,CDKL2
+CMGC Ser/Thr protein kinase family,P11802,CDK4
+CMGC Ser/Thr protein kinase family,Q00536,CDK16
+CMGC Ser/Thr protein kinase family,Q5MAI5,CDKL4
+CMGC Ser/Thr protein kinase family,Q9BWU1,CDK19
+CMGC Ser/Thr protein kinase family,P20794,MAK
+CMGC Ser/Thr protein kinase family,Q13164,MAPK7
+CMGC Ser/Thr protein kinase family,Q8IVW4,CDKL3
+CMGC Ser/Thr protein kinase family,P06493,CDK1
+CMGC Ser/Thr protein kinase family,Q14004,CDK13
+CMGC Ser/Thr protein kinase family,Q9Y463,DYRK1B
+CMGC Ser/Thr protein kinase family,O94921,CDK14
+CMGC Ser/Thr protein kinase family,Q9H422,HIPK3
+CMGC Ser/Thr protein kinase family,Q16659,MAPK6
+CMGC Ser/Thr protein kinase family,Q8TD08,MAPK15
+CMGC Ser/Thr protein kinase family,Q9NR20,DYRK4
+CMGC Ser/Thr protein kinase family,Q9H2X6,HIPK2
+CMGC Ser/Thr protein kinase family,P49840,GSK3A
+CMGC Ser/Thr protein kinase family,P49841,GSK3B
+CMGC Ser/Thr protein kinase family,Q96Q40,CDK15
+CMGC Ser/Thr protein kinase family,P45983,MAPK8
+CMGC Ser/Thr protein kinase family,Q16539,MAPK14
+CMGC Ser/Thr protein kinase family,Q86Z02,HIPK1
+CMGC Ser/Thr protein kinase family,Q8NE63,HIPK4
+CMGC Ser/Thr protein kinase family,P28482,MAPK1
+CMGC Ser/Thr protein kinase family,Q9UBE8,NLK
+CMGC Ser/Thr protein kinase family,P45984,MAPK9
+CMGC Ser/Thr protein kinase family,P31152,MAPK4
+CMGC Ser/Thr protein kinase family,Q13523,PRPF4B
+CMGC Ser/Thr protein kinase family,P53779,MAPK10
+CMGC Ser/Thr protein kinase family,Q9UPE1,SRPK3
+CMGC Ser/Thr protein kinase family,P78362,SRPK2
+CAMTA family,Q9Y6Y1,CAMTA1
+CAMTA family,O94983,CAMTA2
+krueppel C2H2-type zinc-finger protein family,Q9GZX5,ZNF350
+krueppel C2H2-type zinc-finger protein family,Q9HBT8,ZNF286A
+krueppel C2H2-type zinc-finger protein family,Q9UFB7,ZBTB47
+krueppel C2H2-type zinc-finger protein family,Q9NTW7,ZFP64
+krueppel C2H2-type zinc-finger protein family,Q96MX3,ZNF48
+krueppel C2H2-type zinc-finger protein family,Q96K83,ZNF521
+krueppel C2H2-type zinc-finger protein family,Q3KQV3,ZNF792
+krueppel C2H2-type zinc-finger protein family,Q15697,ZNF174
+krueppel C2H2-type zinc-finger protein family,O15209,ZBTB22
+krueppel C2H2-type zinc-finger protein family,Q8TF47,ZFP90
+krueppel C2H2-type zinc-finger protein family,Q15776,ZKSCAN8
+krueppel C2H2-type zinc-finger protein family,Q8N8E2,ZNF513
+krueppel C2H2-type zinc-finger protein family,O43309,ZSCAN12
+krueppel C2H2-type zinc-finger protein family,Q9Y5A6,ZSCAN21
+krueppel C2H2-type zinc-finger protein family,Q9NX65,ZSCAN32
+krueppel C2H2-type zinc-finger protein family,Q2M1K9,ZNF423
+krueppel C2H2-type zinc-finger protein family,Q9NQZ8,ZNF71
+krueppel C2H2-type zinc-finger protein family,Q68EA5,ZNF57
+krueppel C2H2-type zinc-finger protein family,Q9C0F3,ZNF436
+krueppel C2H2-type zinc-finger protein family,P17028,ZNF24
+krueppel C2H2-type zinc-finger protein family,Q9Y462,ZNF711
+krueppel C2H2-type zinc-finger protein family,Q9UM63,PLAGL1
+krueppel C2H2-type zinc-finger protein family,Q96NG5,ZNF558
+krueppel C2H2-type zinc-finger protein family,Q6ZN19,ZNF841
+krueppel C2H2-type zinc-finger protein family,Q86XN6,ZNF761
+krueppel C2H2-type zinc-finger protein family,Q08ER8,ZNF543
+krueppel C2H2-type zinc-finger protein family,Q76KX8,ZNF534
+krueppel C2H2-type zinc-finger protein family,Q9BRH9,ZNF251
+krueppel C2H2-type zinc-finger protein family,Q5VIY5,ZNF468
+krueppel C2H2-type zinc-finger protein family,Q3ZCX4,ZNF568
+krueppel C2H2-type zinc-finger protein family,Q9H0M5,ZNF700
+krueppel C2H2-type zinc-finger protein family,Q02386,ZNF45
+krueppel C2H2-type zinc-finger protein family,P17038,ZNF43
+krueppel C2H2-type zinc-finger protein family,P17035,ZNF28
+krueppel C2H2-type zinc-finger protein family,Q96MR9,ZNF560
+krueppel C2H2-type zinc-finger protein family,Q8N184,ZNF567
+krueppel C2H2-type zinc-finger protein family,Q8NB50,ZFP62
+krueppel C2H2-type zinc-finger protein family,Q96JG9,ZNF469
+krueppel C2H2-type zinc-finger protein family,Q9UJW7,ZNF229
+krueppel C2H2-type zinc-finger protein family,O75820,ZNF189
+krueppel C2H2-type zinc-finger protein family,Q99676,ZNF184
+krueppel C2H2-type zinc-finger protein family,O60304,ZNF500
+krueppel C2H2-type zinc-finger protein family,Q92610,ZNF592
+krueppel C2H2-type zinc-finger protein family,Q6NSZ9,ZSCAN25
+krueppel C2H2-type zinc-finger protein family,Q86W11,ZSCAN30
+krueppel C2H2-type zinc-finger protein family,B4DU55,ZNF879
+krueppel C2H2-type zinc-finger protein family,Q8NCK3,ZNF485
+krueppel C2H2-type zinc-finger protein family,Q5T5D7,ZNF684
+krueppel C2H2-type zinc-finger protein family,Q9C0D4,ZNF518B
+krueppel C2H2-type zinc-finger protein family,O60281,ZNF292
+krueppel C2H2-type zinc-finger protein family,Q96MM3,ZFP42
+krueppel C2H2-type zinc-finger protein family,Q8NEM1,ZNF680
+krueppel C2H2-type zinc-finger protein family,Q9ULD5,ZNF777
+krueppel C2H2-type zinc-finger protein family,Q9Y2L8,ZKSCAN5
+krueppel C2H2-type zinc-finger protein family,Q17R98,ZNF827
+krueppel C2H2-type zinc-finger protein family,Q96I27,ZNF625
+krueppel C2H2-type zinc-finger protein family,Q8N393,ZNF786
+krueppel C2H2-type zinc-finger protein family,P16415,ZNF823
+krueppel C2H2-type zinc-finger protein family,Q9UII5,ZNF107
+krueppel C2H2-type zinc-finger protein family,Q9UL59,ZNF214
+krueppel C2H2-type zinc-finger protein family,P21506,ZNF10
+krueppel C2H2-type zinc-finger protein family,Q96C28,ZNF707
+krueppel C2H2-type zinc-finger protein family,Q96NL3,ZNF599
+krueppel C2H2-type zinc-finger protein family,P51522,ZNF83
+krueppel C2H2-type zinc-finger protein family,Q9HBT7,ZNF287
+krueppel C2H2-type zinc-finger protein family,Q9NYW8,RBAK
+krueppel C2H2-type zinc-finger protein family,P10074,ZBTB48
+krueppel C2H2-type zinc-finger protein family,Q96PQ6,ZNF317
+krueppel C2H2-type zinc-finger protein family,A2RRD8,ZNF320
+krueppel C2H2-type zinc-finger protein family,Q6U7Q0,ZNF322
+krueppel C2H2-type zinc-finger protein family,Q86Y25,ZNF354C
+krueppel C2H2-type zinc-finger protein family,Q8IZ20,ZNF683
+krueppel C2H2-type zinc-finger protein family,Q96HQ0,ZNF419
+krueppel C2H2-type zinc-finger protein family,Q5T0B9,ZNF362
+krueppel C2H2-type zinc-finger protein family,Q5JVG2,ZNF484
+krueppel C2H2-type zinc-finger protein family,Q6ZMW2,ZNF782
+krueppel C2H2-type zinc-finger protein family,Q14929,ZNF169
+krueppel C2H2-type zinc-finger protein family,Q96JL9,ZNF333
+krueppel C2H2-type zinc-finger protein family,Q6DD87,ZNF787
+krueppel C2H2-type zinc-finger protein family,Q9HCZ1,ZNF334
+krueppel C2H2-type zinc-finger protein family,Q8N823,ZNF611
+krueppel C2H2-type zinc-finger protein family,Q5SXM1,ZNF678
+krueppel C2H2-type zinc-finger protein family,Q92766,RREB1
+krueppel C2H2-type zinc-finger protein family,P17017,ZNF14
+krueppel C2H2-type zinc-finger protein family,Q9Y2H8,ZNF510
+krueppel C2H2-type zinc-finger protein family,Q969W8,ZNF566
+krueppel C2H2-type zinc-finger protein family,Q9Y2P7,ZNF256
+krueppel C2H2-type zinc-finger protein family,Q96GC6,ZNF274
+krueppel C2H2-type zinc-finger protein family,Q2TB10,ZNF800
+krueppel C2H2-type zinc-finger protein family,Q8TF68,ZNF384
+krueppel C2H2-type zinc-finger protein family,Q96JC4,ZNF479
+krueppel C2H2-type zinc-finger protein family,Q6ZNA1,ZNF836
+krueppel C2H2-type zinc-finger protein family,E7ETH6,ZNF587B
+krueppel C2H2-type zinc-finger protein family,Q9NZV7,ZIM2
+krueppel C2H2-type zinc-finger protein family,Q8N9K5,ZNF565
+krueppel C2H2-type zinc-finger protein family,Q6IV72,ZNF425
+krueppel C2H2-type zinc-finger protein family,Q14119,VEZF1
+krueppel C2H2-type zinc-finger protein family,Q9Y2X9,ZNF281
+krueppel C2H2-type zinc-finger protein family,P52741,ZNF134
+krueppel C2H2-type zinc-finger protein family,Q8NF99,ZNF397
+krueppel C2H2-type zinc-finger protein family,Q7Z4V0,ZNF438
+krueppel C2H2-type zinc-finger protein family,Q86WZ6,ZNF227
+krueppel C2H2-type zinc-finger protein family,P17024,ZNF20
+krueppel C2H2-type zinc-finger protein family,Q6P9A3,ZNF549
+krueppel C2H2-type zinc-finger protein family,Q7RTV3,ZNF367
+krueppel C2H2-type zinc-finger protein family,Q96IQ9,ZNF414
+krueppel C2H2-type zinc-finger protein family,P17021,ZNF17
+krueppel C2H2-type zinc-finger protein family,P52737,ZNF136
+krueppel C2H2-type zinc-finger protein family,Q96SK3,ZNF607
+krueppel C2H2-type zinc-finger protein family,Q8IZM8,ZNF654
+krueppel C2H2-type zinc-finger protein family,O14709,ZNF197
+krueppel C2H2-type zinc-finger protein family,Q68DI1,ZNF776
+krueppel C2H2-type zinc-finger protein family,O75437,ZNF254
+krueppel C2H2-type zinc-finger protein family,Q13106,ZNF154
+krueppel C2H2-type zinc-finger protein family,B4DX44,ZNF736
+krueppel C2H2-type zinc-finger protein family,Q6ZMV8,ZNF730
+krueppel C2H2-type zinc-finger protein family,Q96LX8,ZNF597
+krueppel C2H2-type zinc-finger protein family,Q13129,RLF
+krueppel C2H2-type zinc-finger protein family,Q9NSD4,ZNF275
+krueppel C2H2-type zinc-finger protein family,Q8N7K0,ZNF433
+krueppel C2H2-type zinc-finger protein family,P59923,ZNF445
+krueppel C2H2-type zinc-finger protein family,Q9P2F9,ZNF319
+krueppel C2H2-type zinc-finger protein family,Q8TAU3,ZNF417
+krueppel C2H2-type zinc-finger protein family,Q96N22,ZNF681
+krueppel C2H2-type zinc-finger protein family,Q9NZL3,ZNF224
+krueppel C2H2-type zinc-finger protein family,Q8N141,ZFP82
+krueppel C2H2-type zinc-finger protein family,Q14584,ZNF266
+krueppel C2H2-type zinc-finger protein family,Q12901,ZNF155
+krueppel C2H2-type zinc-finger protein family,Q8N7M2,ZNF283
+krueppel C2H2-type zinc-finger protein family,Q9HCX3,ZNF304
+krueppel C2H2-type zinc-finger protein family,Q86UD4,ZNF329
+krueppel C2H2-type zinc-finger protein family,Q8NHY6,ZFP28
+krueppel C2H2-type zinc-finger protein family,Q8TF39,ZNF483
+krueppel C2H2-type zinc-finger protein family,A8K8V0,ZNF785
+krueppel C2H2-type zinc-finger protein family,Q15935,ZNF77
+krueppel C2H2-type zinc-finger protein family,Q6ZN08,ZNF66
+krueppel C2H2-type zinc-finger protein family,Q9HCE3,ZNF532
+krueppel C2H2-type zinc-finger protein family,O75290,ZNF780A
+krueppel C2H2-type zinc-finger protein family,Q16600,ZNF239
+krueppel C2H2-type zinc-finger protein family,Q9UIE0,ZNF230
+krueppel C2H2-type zinc-finger protein family,Q9UDV7,ZNF282
+krueppel C2H2-type zinc-finger protein family,P49910,ZNF165
+krueppel C2H2-type zinc-finger protein family,O15060,ZBTB39
+krueppel C2H2-type zinc-finger protein family,Q9Y2Y4,ZBTB32
+krueppel C2H2-type zinc-finger protein family,O75362,ZNF217
+krueppel C2H2-type zinc-finger protein family,Q96SE7,ZNF347
+krueppel C2H2-type zinc-finger protein family,Q9NQX6,ZNF331
+krueppel C2H2-type zinc-finger protein family,Q9H7X3,ZNF696
+krueppel C2H2-type zinc-finger protein family,Q96SQ5,ZNF587
+krueppel C2H2-type zinc-finger protein family,Q86TJ5,ZNF554
+krueppel C2H2-type zinc-finger protein family,Q7Z3V5,ZNF571
+krueppel C2H2-type zinc-finger protein family,Q6NX49,ZNF544
+krueppel C2H2-type zinc-finger protein family,Q9H4Z2,ZNF335
+krueppel C2H2-type zinc-finger protein family,Q9Y3M9,ZNF337
+krueppel C2H2-type zinc-finger protein family,Q06730,ZNF33A
+krueppel C2H2-type zinc-finger protein family,Q06732,ZNF33B
+krueppel C2H2-type zinc-finger protein family,Q9BYN7,ZNF341
+krueppel C2H2-type zinc-finger protein family,Q6P1L6,ZNF343
+krueppel C2H2-type zinc-finger protein family,Q14585,ZNF345
+krueppel C2H2-type zinc-finger protein family,Q96NJ6,ZFP3
+krueppel C2H2-type zinc-finger protein family,Q8N8Y5,ZFP41
+krueppel C2H2-type zinc-finger protein family,Q8TF45,ZNF418
+krueppel C2H2-type zinc-finger protein family,O95780,ZNF682
+krueppel C2H2-type zinc-finger protein family,Q2M3W8,ZNF181
+krueppel C2H2-type zinc-finger protein family,Q6ZN06,ZNF813
+krueppel C2H2-type zinc-finger protein family,Q8NB15,ZNF511
+krueppel C2H2-type zinc-finger protein family,P17023,ZNF19
+krueppel C2H2-type zinc-finger protein family,Q63HK3,ZKSCAN2
+krueppel C2H2-type zinc-finger protein family,Q9H7R0,ZNF442
+krueppel C2H2-type zinc-finger protein family,Q96ND8,ZNF583
+krueppel C2H2-type zinc-finger protein family,Q6PF04,ZNF613
+krueppel C2H2-type zinc-finger protein family,O15015,ZNF646
+krueppel C2H2-type zinc-finger protein family,A6NM28,ZFP92
+krueppel C2H2-type zinc-finger protein family,Q14590,ZNF235
+krueppel C2H2-type zinc-finger protein family,Q9NYT6,ZNF226
+krueppel C2H2-type zinc-finger protein family,P17010,ZFX
+krueppel C2H2-type zinc-finger protein family,Q9NR11,ZNF302
+krueppel C2H2-type zinc-finger protein family,Q96MN9,ZNF488
+krueppel C2H2-type zinc-finger protein family,Q8IVP9,ZNF547
+krueppel C2H2-type zinc-finger protein family,Q96CK0,ZNF653
+krueppel C2H2-type zinc-finger protein family,Q8NDW4,ZNF248
+krueppel C2H2-type zinc-finger protein family,O14628,ZNF195
+krueppel C2H2-type zinc-finger protein family,Q96PE6,ZIM3
+krueppel C2H2-type zinc-finger protein family,Q8IYI8,ZNF440
+krueppel C2H2-type zinc-finger protein family,P17041,ZNF32
+krueppel C2H2-type zinc-finger protein family,Q9H609,ZNF576
+krueppel C2H2-type zinc-finger protein family,Q9UID6,ZNF639
+krueppel C2H2-type zinc-finger protein family,Q15973,ZNF124
+krueppel C2H2-type zinc-finger protein family,Q9UEG4,ZNF629
+krueppel C2H2-type zinc-finger protein family,Q03938,ZNF90
+krueppel C2H2-type zinc-finger protein family,Q8IWY8,ZSCAN29
+krueppel C2H2-type zinc-finger protein family,Q16587,ZNF74
+krueppel C2H2-type zinc-finger protein family,Q86YE8,ZNF573
+krueppel C2H2-type zinc-finger protein family,Q8N1G0,ZNF687
+krueppel C2H2-type zinc-finger protein family,Q8NEK5,ZNF548
+krueppel C2H2-type zinc-finger protein family,Q03924,ZNF117
+krueppel C2H2-type zinc-finger protein family,Q9BY31,ZNF717
+krueppel C2H2-type zinc-finger protein family,Q52M93,ZNF585B
+krueppel C2H2-type zinc-finger protein family,A8MQ14,ZNF850
+krueppel C2H2-type zinc-finger protein family,P52736,ZNF133
+krueppel C2H2-type zinc-finger protein family,Q2M218,ZNF630
+krueppel C2H2-type zinc-finger protein family,Q9UL36,ZNF236
+krueppel C2H2-type zinc-finger protein family,Q14592,ZNF460
+krueppel C2H2-type zinc-finger protein family,P13682,ZNF35
+krueppel C2H2-type zinc-finger protein family,P52740,ZNF132
+krueppel C2H2-type zinc-finger protein family,Q6IQ21,ZNF770
+krueppel C2H2-type zinc-finger protein family,Q96NG8,ZNF582
+krueppel C2H2-type zinc-finger protein family,Q8N988,ZNF557
+krueppel C2H2-type zinc-finger protein family,P08048,ZFY
+krueppel C2H2-type zinc-finger protein family,Q9UJW8,ZNF180
+krueppel C2H2-type zinc-finger protein family,Q96SR6,ZNF382
+krueppel C2H2-type zinc-finger protein family,Q9BX82,ZNF471
+krueppel C2H2-type zinc-finger protein family,Q96MU6,ZNF778
+krueppel C2H2-type zinc-finger protein family,Q8WV37,ZNF480
+krueppel C2H2-type zinc-finger protein family,Q9NW07,ZNF358
+krueppel C2H2-type zinc-finger protein family,P17019,ZNF708
+krueppel C2H2-type zinc-finger protein family,Q8N9Z0,ZNF610
+krueppel C2H2-type zinc-finger protein family,Q8WXB4,ZNF606
+krueppel C2H2-type zinc-finger protein family,Q8N2I2,ZNF619
+krueppel C2H2-type zinc-finger protein family,Q5JVG8,ZNF506
+krueppel C2H2-type zinc-finger protein family,Q96JF6,ZNF594
+krueppel C2H2-type zinc-finger protein family,O75373,ZNF737
+krueppel C2H2-type zinc-finger protein family,O43361,ZNF749
+krueppel C2H2-type zinc-finger protein family,Q6AW86,ZNF324B
+krueppel C2H2-type zinc-finger protein family,Q9H707,ZNF552
+krueppel C2H2-type zinc-finger protein family,Q8N883,ZNF614
+krueppel C2H2-type zinc-finger protein family,P17098,ZNF8
+krueppel C2H2-type zinc-finger protein family,Q8N4W9,ZNF808
+krueppel C2H2-type zinc-finger protein family,Q15928,ZNF141
+krueppel C2H2-type zinc-finger protein family,P0CG31,ZNF286B
+krueppel C2H2-type zinc-finger protein family,Q6P2D0,ZFP1
+krueppel C2H2-type zinc-finger protein family,P17014,ZNF12
+krueppel C2H2-type zinc-finger protein family,Q9Y2A4,ZNF443
+krueppel C2H2-type zinc-finger protein family,Q9UJL9,ZFP69B
+krueppel C2H2-type zinc-finger protein family,Q7Z398,ZNF550
+krueppel C2H2-type zinc-finger protein family,Q6P280,ZNF529
+krueppel C2H2-type zinc-finger protein family,Q9BSG1,ZNF2
+krueppel C2H2-type zinc-finger protein family,Q96N38,ZNF714
+krueppel C2H2-type zinc-finger protein family,Q5CZA5,ZNF805
+krueppel C2H2-type zinc-finger protein family,Q96ME7,ZNF512
+krueppel C2H2-type zinc-finger protein family,P17020,ZNF16
+krueppel C2H2-type zinc-finger protein family,Q7Z340,ZNF551
+krueppel C2H2-type zinc-finger protein family,Q9Y2G7,ZFP30
+krueppel C2H2-type zinc-finger protein family,Q96K75,ZNF514
+krueppel C2H2-type zinc-finger protein family,Q05516,ZBTB16
+krueppel C2H2-type zinc-finger protein family,Q8TBZ5,ZNF502
+krueppel C2H2-type zinc-finger protein family,Q9H7R5,ZNF665
+krueppel C2H2-type zinc-finger protein family,Q8TCN5,ZNF507
+krueppel C2H2-type zinc-finger protein family,Q9HCL3,ZFP14
+krueppel C2H2-type zinc-finger protein family,Q7Z7K2,ZNF467
+krueppel C2H2-type zinc-finger protein family,Q5FWF6,ZNF789
+krueppel C2H2-type zinc-finger protein family,Q8IYN0,ZNF100
+krueppel C2H2-type zinc-finger protein family,Q6NX45,ZNF774
+krueppel C2H2-type zinc-finger protein family,Q9BR84,ZNF559
+krueppel C2H2-type zinc-finger protein family,Q8IZ26,ZNF34
+krueppel C2H2-type zinc-finger protein family,Q8N720,ZNF655
+krueppel C2H2-type zinc-finger protein family,Q7L945,ZNF627
+krueppel C2H2-type zinc-finger protein family,Q96IR2,ZNF845
+krueppel C2H2-type zinc-finger protein family,Q6P9A1,ZNF530
+krueppel C2H2-type zinc-finger protein family,Q8IZC7,ZNF101
+krueppel C2H2-type zinc-finger protein family,Q13105,ZBTB17
+krueppel C2H2-type zinc-finger protein family,Q8NAF0,ZNF579
+krueppel C2H2-type zinc-finger protein family,Q96K58,ZNF668
+krueppel C2H2-type zinc-finger protein family,P17039,ZNF30
+krueppel C2H2-type zinc-finger protein family,Q2M3X9,ZNF674
+krueppel C2H2-type zinc-finger protein family,Q96KM6,ZNF512B
+krueppel C2H2-type zinc-finger protein family,Q9Y2D9,ZNF652
+krueppel C2H2-type zinc-finger protein family,Q8NDP4,ZNF439
+krueppel C2H2-type zinc-finger protein family,Q13360,ZNF177
+krueppel C2H2-type zinc-finger protein family,P17025,ZNF182
+krueppel C2H2-type zinc-finger protein family,Q8N972,ZNF709
+krueppel C2H2-type zinc-finger protein family,Q86UP3,ZFHX4
+krueppel C2H2-type zinc-finger protein family,Q99592,ZBTB18
+krueppel C2H2-type zinc-finger protein family,Q86UQ0,ZNF589
+krueppel C2H2-type zinc-finger protein family,Q3MIS6,ZNF528
+krueppel C2H2-type zinc-finger protein family,Q5T619,ZNF648
+krueppel C2H2-type zinc-finger protein family,Q9H4T2,ZSCAN16
+krueppel C2H2-type zinc-finger protein family,Q96LW9,ZSCAN31
+krueppel C2H2-type zinc-finger protein family,O95201,ZNF205
+krueppel C2H2-type zinc-finger protein family,O43345,ZNF208
+krueppel C2H2-type zinc-finger protein family,Q9UL58,ZNF215
+krueppel C2H2-type zinc-finger protein family,Q0D2J5,ZNF763
+krueppel C2H2-type zinc-finger protein family,Q8TAF7,ZNF461
+krueppel C2H2-type zinc-finger protein family,Q8TF20,ZNF721
+krueppel C2H2-type zinc-finger protein family,Q96EG3,ZNF837
+krueppel C2H2-type zinc-finger protein family,P17026,ZNF22
+krueppel C2H2-type zinc-finger protein family,Q6P3V2,ZNF585A
+krueppel C2H2-type zinc-finger protein family,P52746,ZNF142
+krueppel C2H2-type zinc-finger protein family,Q86T29,ZNF605
+krueppel C2H2-type zinc-finger protein family,Q8NC26,ZNF114
+krueppel C2H2-type zinc-finger protein family,P52738,ZNF140
+krueppel C2H2-type zinc-finger protein family,Q8IYX0,ZNF679
+krueppel C2H2-type zinc-finger protein family,Q9BS31,ZNF649
+krueppel C2H2-type zinc-finger protein family,P10073,ZSCAN22
+krueppel C2H2-type zinc-finger protein family,A8MXY4,ZNF99
+krueppel C2H2-type zinc-finger protein family,O43829,ZBTB14
+krueppel C2H2-type zinc-finger protein family,O75467,ZNF324
+krueppel C2H2-type zinc-finger protein family,P51814,ZNF41
+krueppel C2H2-type zinc-finger protein family,Q8N8Z8,ZNF441
+krueppel C2H2-type zinc-finger protein family,Q3KNS6,ZNF829
+krueppel C2H2-type zinc-finger protein family,Q13398,ZNF211
+krueppel C2H2-type zinc-finger protein family,Q96K62,ZBTB45
+krueppel C2H2-type zinc-finger protein family,P51815,ZNF75D
+krueppel C2H2-type zinc-finger protein family,Q8WTR7,ZNF473
+krueppel C2H2-type zinc-finger protein family,P17029,ZKSCAN1
+krueppel C2H2-type zinc-finger protein family,Q6NUN9,ZNF746
+krueppel C2H2-type zinc-finger protein family,P36508,ZNF76
+krueppel C2H2-type zinc-finger protein family,Q9UK13,ZNF221
+krueppel C2H2-type zinc-finger protein family,Q9Y6R6,ZNF780B
+krueppel C2H2-type zinc-finger protein family,Q9NU63,ZFP57
+krueppel C2H2-type zinc-finger protein family,Q6ZN79,ZNF705A
+krueppel C2H2-type zinc-finger protein family,O94892,ZNF432
+krueppel C2H2-type zinc-finger protein family,Q9UK12,ZNF222
+krueppel C2H2-type zinc-finger protein family,Q14587,ZNF268
+krueppel C2H2-type zinc-finger protein family,Q9UNY5,ZNF232
+krueppel C2H2-type zinc-finger protein family,Q8NDX6,ZNF740
+krueppel C2H2-type zinc-finger protein family,Q6ZN55,ZNF574
+krueppel C2H2-type zinc-finger protein family,Q9NXT0,ZNF586
+krueppel C2H2-type zinc-finger protein family,Q8N1W2,ZNF710
+krueppel C2H2-type zinc-finger protein family,Q96GE5,ZNF799
+krueppel C2H2-type zinc-finger protein family,A6NN14,ZNF729
+krueppel C2H2-type zinc-finger protein family,O60765,ZNF354A
+krueppel C2H2-type zinc-finger protein family,Q92618,ZNF516
+krueppel C2H2-type zinc-finger protein family,Q9UJN7,ZNF391
+krueppel C2H2-type zinc-finger protein family,P17036,ZNF3
+krueppel C2H2-type zinc-finger protein family,Q8TA94,ZNF563
+krueppel C2H2-type zinc-finger protein family,Q3KP31,ZNF791
+krueppel C2H2-type zinc-finger protein family,Q96IT1,ZNF496
+krueppel C2H2-type zinc-finger protein family,Q6AZW8,ZNF660
+krueppel C2H2-type zinc-finger protein family,Q8N0Y2,ZNF444
+krueppel C2H2-type zinc-finger protein family,P17030,ZNF25
+krueppel C2H2-type zinc-finger protein family,Q68DY9,ZNF772
+krueppel C2H2-type zinc-finger protein family,P17032,ZNF37A
+krueppel C2H2-type zinc-finger protein family,P0C7X2,ZNF688
+krueppel C2H2-type zinc-finger protein family,Q9UC07,ZNF69
+krueppel C2H2-type zinc-finger protein family,Q5MCW4,ZNF569
+krueppel C2H2-type zinc-finger protein family,O43167,ZBTB24
+krueppel C2H2-type zinc-finger protein family,O15090,ZNF536
+krueppel C2H2-type zinc-finger protein family,Q8N9F8,ZNF454
+krueppel C2H2-type zinc-finger protein family,Q6ZS27,ZNF662
+krueppel C2H2-type zinc-finger protein family,Q08AN1,ZNF616
+krueppel C2H2-type zinc-finger protein family,Q9Y2Q1,ZNF257
+krueppel C2H2-type zinc-finger protein family,Q3ZCT1,ZNF260
+krueppel C2H2-type zinc-finger protein family,Q14593,ZNF273
+krueppel C2H2-type zinc-finger protein family,O43296,ZNF264
+krueppel C2H2-type zinc-finger protein family,Q8N8C0,ZNF781
+krueppel C2H2-type zinc-finger protein family,Q86XU0,ZNF677
+krueppel C2H2-type zinc-finger protein family,A6NNF4,ZNF726
+krueppel C2H2-type zinc-finger protein family,Q5TYW1,ZNF658
+krueppel C2H2-type zinc-finger protein family,Q8IVC4,ZNF584
+krueppel C2H2-type zinc-finger protein family,Q7Z3I7,ZNF572
+krueppel C2H2-type zinc-finger protein family,Q5T7W0,ZNF618
+krueppel C2H2-type zinc-finger protein family,O14771,ZNF213
+krueppel C2H2-type zinc-finger protein family,P51786,ZNF157
+krueppel C2H2-type zinc-finger protein family,Q14588,ZNF234
+krueppel C2H2-type zinc-finger protein family,P15622,ZNF250
+krueppel C2H2-type zinc-finger protein family,O43298,ZBTB43
+krueppel C2H2-type zinc-finger protein family,Q8TF50,ZNF526
+krueppel C2H2-type zinc-finger protein family,Q8NDQ6,ZNF540
+krueppel C2H2-type zinc-finger protein family,P17027,ZNF23
+krueppel C2H2-type zinc-finger protein family,Q8TAW3,ZNF671
+krueppel C2H2-type zinc-finger protein family,Q9UC06,ZNF70
+krueppel C2H2-type zinc-finger protein family,Q8IYB9,ZNF595
+krueppel C2H2-type zinc-finger protein family,Q9P255,ZNF492
+krueppel C2H2-type zinc-finger protein family,Q9NV72,ZNF701
+krueppel C2H2-type zinc-finger protein family,Q9H8G1,ZNF430
+krueppel C2H2-type zinc-finger protein family,Q96CX3,ZNF501
+krueppel C2H2-type zinc-finger protein family,Q9BWM5,ZNF416
+krueppel C2H2-type zinc-finger protein family,P51508,ZNF81
+krueppel C2H2-type zinc-finger protein family,Q05481,ZNF91
+krueppel C2H2-type zinc-finger protein family,Q03936,ZNF92
+krueppel C2H2-type zinc-finger protein family,A6NK75,ZNF98
+krueppel C2H2-type zinc-finger protein family,C9JN71,ZNF878
+krueppel C2H2-type zinc-finger protein family,Q96H40,ZNF486
+krueppel C2H2-type zinc-finger protein family,Q2VY69,ZNF284
+krueppel C2H2-type zinc-finger protein family,Q6ZSB9,ZBTB49
+krueppel C2H2-type zinc-finger protein family,Q14586,ZNF267
+krueppel C2H2-type zinc-finger protein family,Q9HCG1,ZNF160
+krueppel C2H2-type zinc-finger protein family,Q9Y6Q3,ZFP37
+krueppel C2H2-type zinc-finger protein family,Q8N859,ZNF713
+krueppel C2H2-type zinc-finger protein family,Q96N20,ZNF75A
+krueppel C2H2-type zinc-finger protein family,Q68DY1,ZNF626
+krueppel C2H2-type zinc-finger protein family,Q5HYK9,ZNF667
+krueppel C2H2-type zinc-finger protein family,Q9Y4E5,ZNF451
+krueppel C2H2-type zinc-finger protein family,Q9ULM2,ZNF490
+krueppel C2H2-type zinc-finger protein family,Q9HAH1,ZNF556
+krueppel C2H2-type zinc-finger protein family,Q9P0L1,ZKSCAN7
+krueppel C2H2-type zinc-finger protein family,P17097,ZNF7
+krueppel C2H2-type zinc-finger protein family,P35789,ZNF93
+krueppel C2H2-type zinc-finger protein family,Q96NJ3,ZNF285
+krueppel C2H2-type zinc-finger protein family,Q8WUU4,ZNF296
+krueppel C2H2-type zinc-finger protein family,Q96RE9,ZNF300
+krueppel C2H2-type zinc-finger protein family,Q6PG37,ZNF790
+krueppel C2H2-type zinc-finger protein family,Q9BRR0,ZKSCAN3
+krueppel C2H2-type zinc-finger protein family,P10072,ZNF875
+krueppel C2H2-type zinc-finger protein family,Q96H86,ZNF764
+krueppel C2H2-type zinc-finger protein family,Q6AHZ1,ZNF518A
+krueppel C2H2-type zinc-finger protein family,Q9Y473,ZNF175
+krueppel C2H2-type zinc-finger protein family,O75346,ZNF253
+krueppel C2H2-type zinc-finger protein family,Q9Y2P0,ZNF835
+krueppel C2H2-type zinc-finger protein family,Q96N58,ZNF578
+krueppel C2H2-type zinc-finger protein family,Q8N587,ZNF561
+krueppel C2H2-type zinc-finger protein family,Q9NUA8,ZBTB40
+krueppel C2H2-type zinc-finger protein family,Q9UK11,ZNF223
+krueppel C2H2-type zinc-finger protein family,Q9UQR1,ZNF148
+krueppel C2H2-type zinc-finger protein family,Q9UDV6,ZNF212
+krueppel C2H2-type zinc-finger protein family,Q5JNZ3,ZNF311
+krueppel C2H2-type zinc-finger protein family,Q8TD17,ZNF398
+krueppel C2H2-type zinc-finger protein family,Q6ZN57,ZFP2
+krueppel C2H2-type zinc-finger protein family,Q9BSK1,ZNF577
+krueppel C2H2-type zinc-finger protein family,Q53GI3,ZNF394
+krueppel C2H2-type zinc-finger protein family,Q6ZN11,ZNF793
+krueppel C2H2-type zinc-finger protein family,Q0VGE8,ZNF816
+krueppel C2H2-type zinc-finger protein family,Q8TB69,ZNF519
+krueppel C2H2-type zinc-finger protein family,Q86UE3,ZNF546
+krueppel C2H2-type zinc-finger protein family,P52742,ZNF135
+krueppel C2H2-type zinc-finger protein family,Q96NI8,ZNF570
+krueppel C2H2-type zinc-finger protein family,Q6ZNG1,ZNF600
+krueppel C2H2-type zinc-finger protein family,Q03923,ZNF85
+krueppel C2H2-type zinc-finger protein family,Q7Z7L9,ZSCAN2
+krueppel C2H2-type zinc-finger protein family,Q8N7Q3,ZNF676
+krueppel C2H2-type zinc-finger protein family,Q6ECI4,ZNF470
+krueppel C2H2-type zinc-finger protein family,P17022,ZNF18
+krueppel C2H2-type zinc-finger protein family,Q9P2J8,ZNF624
+krueppel C2H2-type zinc-finger protein family,Q9UJU3,ZNF112
+krueppel C2H2-type zinc-finger protein family,A6NP11,ZNF716
+krueppel C2H2-type zinc-finger protein family,Q8TF32,ZNF431
+krueppel C2H2-type zinc-finger protein family,Q8NB42,ZNF527
+krueppel C2H2-type zinc-finger protein family,Q9H582,ZNF644
+krueppel C2H2-type zinc-finger protein family,P52739,ZNF131
+krueppel C2H2-type zinc-finger protein family,Q969J2,ZKSCAN4
+krueppel C2H2-type zinc-finger protein family,Q8NA42,ZNF383
+krueppel C2H2-type zinc-finger protein family,Q8N8J6,ZNF615
+krueppel C2H2-type zinc-finger protein family,Q8TBC5,ZSCAN18
+krueppel C2H2-type zinc-finger protein family,Q9H5H4,ZNF768
+krueppel C2H2-type zinc-finger protein family,O75541,ZNF821
+krueppel C2H2-type zinc-finger protein family,Q96LW1,ZNF354B
+krueppel C2H2-type zinc-finger protein family,Q96JP5,ZFP91
+krueppel C2H2-type zinc-finger protein family,Q96N95,ZNF396
+krueppel C2H2-type zinc-finger protein family,Q5HY98,ZNF766
+krueppel C2H2-type zinc-finger protein family,Q08AG5,ZNF844
+krueppel C2H2-type zinc-finger protein family,Q5TEC3,ZNF697
+krueppel C2H2-type zinc-finger protein family,P52744,ZNF138
+krueppel C2H2-type zinc-finger protein family,Q96BV0,ZNF775
+krueppel C2H2-type zinc-finger protein family,Q8TC21,ZNF596
+krueppel C2H2-type zinc-finger protein family,Q96BR6,ZNF669
+krueppel C2H2-type zinc-finger protein family,Q9P2Y4,ZNF219
+krueppel C2H2-type zinc-finger protein family,Q6PK81,ZNF773
+krueppel C2H2-type zinc-finger protein family,Q9BU19,ZNF692
+krueppel C2H2-type zinc-finger protein family,Q9UK10,ZNF225
+krueppel C2H2-type zinc-finger protein family,O14978,ZNF263
+krueppel C2H2-type zinc-finger protein family,Q3SY52,ZIK1
+krueppel C2H2-type zinc-finger protein family,O43474,KLF4
+krueppel C2H2-type zinc-finger protein family,A0PJY2,FEZF1
+krueppel C2H2-type zinc-finger protein family,Q9H116,GZF1
+krueppel C2H2-type zinc-finger protein family,O75840,KLF7
+krueppel C2H2-type zinc-finger protein family,Q8TBJ5,FEZF2
+krueppel C2H2-type zinc-finger protein family,Q9GZU2,PEG3
+krueppel C2H2-type zinc-finger protein family,Q99612,KLF6
+krueppel C2H2-type zinc-finger protein family,Q6IQ32,ADNP2
+krueppel C2H2-type zinc-finger protein family,P28698,MZF1
+krueppel C2H2-type zinc-finger protein family,Q9NPC7,MYNN
+krueppel C2H2-type zinc-finger protein family,Q6DJT9,PLAG1
+krueppel C2H2-type zinc-finger protein family,Q96JB3,HIC2
+krueppel C2H2-type zinc-finger protein family,Q9BRP0,OVOL2
+krueppel C2H2-type zinc-finger protein family,Q9HBE1,PATZ1
+krueppel C2H2-type zinc-finger protein family,Q13887,KLF5
+krueppel C2H2-type zinc-finger protein family,Q14526,HIC1
+krueppel C2H2-type zinc-finger protein family,Q13351,KLF1
+krueppel C2H2-type zinc-finger protein family,O95785,WIZ
+krueppel C2H2-type zinc-finger protein family,P10075,GLI4
+krueppel C2H2-type zinc-finger protein family,P57682,KLF3
+class V-like SAM-binding methyltransferase superfamily,Q8NB12,SMYD1
+class V-like SAM-binding methyltransferase superfamily,Q9H7B4,SMYD3
+class V-like SAM-binding methyltransferase superfamily,O15047,SETD1A
+class V-like SAM-binding methyltransferase superfamily,Q9BYW2,SETD2
+class V-like SAM-binding methyltransferase superfamily,Q9H5I1,SUV39H2
+class V-like SAM-binding methyltransferase superfamily,Q53H47,SETMAR
+class V-like SAM-binding methyltransferase superfamily,Q86TU7,SETD3
+class V-like SAM-binding methyltransferase superfamily,Q9H9B1,EHMT1
+class V-like SAM-binding methyltransferase superfamily,Q15910,EZH2
+class V-like SAM-binding methyltransferase superfamily,Q96KQ7,EHMT2
+class V-like SAM-binding methyltransferase superfamily,Q86Y97,KMT5C
+class V-like SAM-binding methyltransferase superfamily,Q8NEZ4,KMT2C
+class V-like SAM-binding methyltransferase superfamily,Q9NR48,ASH1L
+class V-like SAM-binding methyltransferase superfamily,Q03164,KMT2A
+class V-like SAM-binding methyltransferase superfamily,Q9UMN6,KMT2B
+class V-like SAM-binding methyltransferase superfamily,Q9NQR1,KMT5A
+class V-like SAM-binding methyltransferase superfamily,Q96L73,NSD1
+class V-like SAM-binding methyltransferase superfamily,Q8IZD2,KMT2E
+class V-like SAM-binding methyltransferase superfamily,Q4FZB7,KMT5B
+class V-like SAM-binding methyltransferase superfamily,Q9NQV6,PRDM10
+class V-like SAM-binding methyltransferase superfamily,Q9NQV5,PRDM11
+class V-like SAM-binding methyltransferase superfamily,Q9GZV8,PRDM14
+class V-like SAM-binding methyltransferase superfamily,Q9BZ95,NSD3
+class V-like SAM-binding methyltransferase superfamily,Q92800,EZH1
+class V-like SAM-binding methyltransferase superfamily,Q6GMV2,SMYD5
+class V-like SAM-binding methyltransferase superfamily,Q8NE22,SETD9
+class V-like SAM-binding methyltransferase superfamily,Q9H4Q3,PRDM13
+class V-like SAM-binding methyltransferase superfamily,Q9UKN5,PRDM4
+class V-like SAM-binding methyltransferase superfamily,O96028,NSD2
+class V-like SAM-binding methyltransferase superfamily,O14686,KMT2D
+class V-like SAM-binding methyltransferase superfamily,Q8TBK2,SETD6
+class V-like SAM-binding methyltransferase superfamily,Q8WTS6,SETD7
+class V-like SAM-binding methyltransferase superfamily,Q9UPS6,SETD1B
+class V-like SAM-binding methyltransferase superfamily,Q15047,SETDB1
+class V-like SAM-binding methyltransferase superfamily,O43463,SUV39H1
+class V-like SAM-binding methyltransferase superfamily,Q8IYR2,SMYD4
+class V-like SAM-binding methyltransferase superfamily,Q13029,PRDM2
+class V-like SAM-binding methyltransferase superfamily,P57071,PRDM15
+class V-like SAM-binding methyltransferase superfamily,O75626,PRDM1
+class V-like SAM-binding methyltransferase superfamily,Q96T68,SETDB2
+class V-like SAM-binding methyltransferase superfamily,Q9NRG4,SMYD2
+class V-like SAM-binding methyltransferase superfamily,Q9NQX1,PRDM5
+class V-like SAM-binding methyltransferase superfamily,Q9NQV7,PRDM9
+class V-like SAM-binding methyltransferase superfamily,Q9NQX0,PRDM6
+class V-like SAM-binding methyltransferase superfamily,Q9NQV8,PRDM8
+ubiquitin-conjugating enzyme family,Q7Z7E8,UBE2Q1
+ubiquitin-conjugating enzyme family,Q9Y3C8,UFC1
+ubiquitin-conjugating enzyme family,P61077,UBE2D3
+ubiquitin-conjugating enzyme family,P49459,UBE2A
+ubiquitin-conjugating enzyme family,O00762,UBE2C
+ubiquitin-conjugating enzyme family,Q969M7,UBE2F
+ubiquitin-conjugating enzyme family,P62256,UBE2H
+ubiquitin-conjugating enzyme family,P61086,UBE2K
+ubiquitin-conjugating enzyme family,P61088,UBE2N
+ubiquitin-conjugating enzyme family,Q9C0C9,UBE2O
+ubiquitin-conjugating enzyme family,Q16763,UBE2S
+ubiquitin-conjugating enzyme family,Q9NPD8,UBE2T
+ubiquitin-conjugating enzyme family,Q9H832,UBE2Z
+ubiquitin-conjugating enzyme family,Q96LR5,UBE2E2
+ubiquitin-conjugating enzyme family,P63279,UBE2I
+ubiquitin-conjugating enzyme family,Q8N2K1,UBE2J2
+ubiquitin-conjugating enzyme family,A1L167,UBE2QL1
+ubiquitin-conjugating enzyme family,Q8WVN8,UBE2Q2
+ubiquitin-conjugating enzyme family,P49427,CDC34
+ubiquitin-conjugating enzyme family,P62837,UBE2D2
+ubiquitin-conjugating enzyme family,P60604,UBE2G2
+ubiquitin-conjugating enzyme family,Q99816,TSG101
+ubiquitin-conjugating enzyme family,Q9Y2X8,UBE2D4
+ubiquitin-conjugating enzyme family,Q5VVX9,UBE2U
+ubiquitin-conjugating enzyme family,Q712K3,UBE2R2
+ubiquitin-conjugating enzyme family,Q9Y385,UBE2J1
+ubiquitin-conjugating enzyme family,Q8IX04,UEVLD
+ubiquitin-conjugating enzyme family,P51965,UBE2E1
+ubiquitin-conjugating enzyme family,P61081,UBE2M
+ubiquitin-conjugating enzyme family,P62253,UBE2G1
+ubiquitin-conjugating enzyme family,P68036,UBE2L3
+ubiquitin-conjugating enzyme family,Q15819,UBE2V2
+ubiquitin-conjugating enzyme family,Q9H8T0,AKTIP
+ubiquitin-conjugating enzyme family,Q9NR09,BIRC6
+Orthers,Q8WUM0,NUP133
+Orthers,O14746,TERT
+Orthers,Q96MF7,NSMCE2
+Orthers,Q01831,XPC
+Orthers,Q92574,TSC1
+Orthers,P04114,APOB
+Orthers,O00255,MEN1
+Orthers,Q9NUX5,POT1
+Orthers,P49915,GMPS
+BTB-kelch protein,Q8N653,LZTR1
+BTB-kelch protein,A6NCF5,KLHL33
+BTB-kelch protein,O14682,ENC1
+BTB-kelch protein,O60662,KLHL41
+BTB-kelch protein,O94889,KLHL18
+BTB-kelch protein,O95198,KLHL2
+BTB-kelch protein,Q0D2K2,KLHL30
+BTB-kelch protein,Q13939,CCIN
+BTB-kelch protein,Q14145,KEAP1
+BTB-kelch protein,Q2TBA0,KLHL40
+BTB-kelch protein,Q2WGJ6,KLHL38
+BTB-kelch protein,Q3ZCT8,KBTBD12
+BTB-kelch protein,Q53G59,KLHL12
+BTB-kelch protein,Q53GT1,KLHL22
+BTB-kelch protein,Q53HC5,KLHL26
+BTB-kelch protein,Q6JEL2,KLHL10
+BTB-kelch protein,Q6PF15,KLHL35
+BTB-kelch protein,Q6TDP4,KLHL17
+BTB-kelch protein,Q6TFL4,KLHL24
+BTB-kelch protein,Q86V97,KBTBD6
+BTB-kelch protein,Q8IXQ5,KLHL7
+BTB-kelch protein,Q8IY47,KBTBD2
+BTB-kelch protein,Q8N239,KLHL34
+BTB-kelch protein,Q8N4N3,KLHL36
+BTB-kelch protein,Q8NAB2,KBTBD3
+BTB-kelch protein,Q8NBE8,KLHL23
+BTB-kelch protein,Q8NFY9,KBTBD8
+BTB-kelch protein,Q8WVZ9,KBTBD7
+BTB-kelch protein,Q8WZ60,KLHL6
+BTB-kelch protein,Q96M94,KLHL15
+BTB-kelch protein,Q96NJ5,KLHL32
+BTB-kelch protein,Q9H0H3,KLHL25
+BTB-kelch protein,Q9H2C0,GAN
+BTB-kelch protein,Q9NVX7,KBTBD4
+BTB-kelch protein,Q9NXS3,KLHL28
+BTB-kelch protein,Q9P2G3,KLHL14
+BTB-kelch protein,Q9P2G9,KLHL8
+BTB-kelch protein,Q9P2J3,KLHL9
+BTB-kelch protein,Q9P2N7,KLHL13
+BTB-kelch protein,Q9UH77,KLHL3
+BTB-kelch protein,Q9UJP4,KLHL21
+BTB-kelch protein,Q9Y2M5,KLHL20
+BTB-kelch protein,Q9Y573,IPP
+BTB-kelch protein,Q9Y6Y0,IVNS1ABP
+Ran binding protein RanBP1-like,P0DJD0,RGPD1
+Ran binding protein RanBP1-like,P49792,RANBP2
+Ran binding protein RanBP1-like,Q7Z3J3,RGPD4
+Ran binding protein RanBP1-like,Q86VV4,RANBP3L
+Ran binding protein RanBP1-like,Q9H6Z4,RANBP3
+Ran binding protein RanBP1-like,Q9UKX7,NUP50
+heterogeneous nuclear ribonucleoproteins,O14979,HNRNPDL
+heterogeneous nuclear ribonucleoproteins,O43390,HNRNPR
+heterogeneous nuclear ribonucleoproteins,O60812,HNRNPCL1
+heterogeneous nuclear ribonucleoproteins,P07910,HNRNPC
+heterogeneous nuclear ribonucleoproteins,P09651,HNRNPA1
+heterogeneous nuclear ribonucleoproteins,P14866,HNRNPL
+heterogeneous nuclear ribonucleoproteins,P22626,HNRNPA2B1
+heterogeneous nuclear ribonucleoproteins,P31942,HNRNPH3
+heterogeneous nuclear ribonucleoproteins,P31943,HNRNPH1
+heterogeneous nuclear ribonucleoproteins,P51991,HNRNPA3
+heterogeneous nuclear ribonucleoproteins,P52272,HNRNPM
+heterogeneous nuclear ribonucleoproteins,P52597,HNRNPF
+heterogeneous nuclear ribonucleoproteins,P55795,HNRNPH2
+heterogeneous nuclear ribonucleoproteins,P61978,HNRNPK
+heterogeneous nuclear ribonucleoproteins,Q00839,HNRNPU
+heterogeneous nuclear ribonucleoproteins,Q14103,HNRNPD
+heterogeneous nuclear ribonucleoproteins,Q8WVV9,HNRNPLL
+heterogeneous nuclear ribonucleoproteins,Q99729,HNRNPAB
+heterogeneous nuclear ribonucleoproteins,Q9BUJ2,HNRNPUL1
+heterogeneous nuclear ribonucleoproteins,Q1KMD3,HNRNPUL2
+CARD caspase recruitment domain,O43353,RIPK2
+CARD caspase recruitment domain,O14727,APAF1
+CARD caspase recruitment domain,P42575,CASP2
+CARD caspase recruitment domain,Q13490,BIRC2
+CARD caspase recruitment domain,Q8TDM6,DLG5
+CARD caspase recruitment domain,O95999,BCL10
+CARD caspase recruitment domain,P51878,CASP5
+CARD caspase recruitment domain,Q9ULZ3,PYCARD
+CARD caspase recruitment domain,Q9BWT7,CARD10
+CARD caspase recruitment domain,Q9BXL6,CARD14
+CARD caspase recruitment domain,P78560,CRADD
+CARD caspase recruitment domain,P29466,CASP1
+CARD caspase recruitment domain,P49662,CASP4
+CARD caspase recruitment domain,Q5EG05,CARD16
+CARD caspase recruitment domain,Q9BXL7,CARD11
+CARD caspase recruitment domain,Q9Y2G2,CARD8
+CARD caspase recruitment domain,Q9Y239,NOD1
+CARD caspase recruitment domain,Q9NPP4,NLRC4
+CARD caspase recruitment domain,Q9HC29,NOD2
+CARD caspase recruitment domain,Q9C000,NLRP1
+CARD caspase recruitment domain,P57730,CARD18
+CARD caspase recruitment domain,Q9BX69,CARD6
+CARD caspase recruitment domain,Q5XLA6,CARD17
+FAT family,Q14517,FAT1
+FAT family,Q9NYQ8,FAT2
+FAT family,Q8TDW7,FAT3
+FAT family,Q6V0I7,FAT4
+ARID family,O14497,ARID1A
+ARID family,Q8NFD5,ARID1B
+ARID family,Q68CP9,ARID2
+ARID family,Q99856,ARID3A
+ARID family,Q8IVW6,ARID3B
+ARID family,A6NKF2,ARID3C
+ARID family,P29374,ARID4A
+ARID family,Q4LE39,ARID4B
+ARID family,Q03989,ARID5A
+ARID family,Q14865,ARID5B
+ARID family,Q9BY66,KDM5A
+ARID family,Q9UGL1,KDM5B
+ARID family,P41229,KDM5C
+ARID family,Q92833,JARID2
+CDKN2 cyclin-dependent kinase inhibitor family,P42771,CDKN2A
+CDKN2 cyclin-dependent kinase inhibitor family,P42773,CDKN2C
+CDKN2 cyclin-dependent kinase inhibitor family,P42772,CDKN2B
+peptidase C19 family,O00507,USP9Y
+peptidase C19 family,O75604,USP2
+peptidase C19 family,O94782,USP1
+peptidase C19 family,O94966,USP19
+peptidase C19 family,P35125,USP6
+peptidase C19 family,P40818,USP8
+peptidase C19 family,P45974,USP5
+peptidase C19 family,Q13107,USP4
+peptidase C19 family,Q14694,USP10
+peptidase C19 family,Q504Q3,PAN2
+peptidase C19 family,Q53GS9,USP39
+peptidase C19 family,Q5W0Q7,USPL1
+peptidase C19 family,Q6R6M4,USP17L2
+peptidase C19 family,Q70CQ1,USP49
+peptidase C19 family,Q70CQ2,USP34
+peptidase C19 family,Q70CQ3,USP30
+peptidase C19 family,Q70CQ4,USP31
+peptidase C19 family,Q70EK9,USP51
+peptidase C19 family,Q70EL1,USP54
+peptidase C19 family,Q70EL2,USP45
+peptidase C19 family,Q70EL3,USP50
+peptidase C19 family,Q70EL4,USP43
+peptidase C19 family,Q86T82,USP37
+peptidase C19 family,Q86UV5,USP48
+peptidase C19 family,Q8NB14,USP38
+peptidase C19 family,Q8NFA0,USP32
+peptidase C19 family,Q8TEY7,USP33
+peptidase C19 family,Q92995,USP13
+peptidase C19 family,Q93008,USP9X
+peptidase C19 family,Q93009,USP7
+peptidase C19 family,Q96K76,USP47
+peptidase C19 family,Q96RU2,USP28
+peptidase C19 family,Q9BXU7,USP26
+peptidase C19 family,Q9H0E7,USP44
+peptidase C19 family,Q9H9J4,USP42
+peptidase C19 family,Q9HBJ7,USP29
+peptidase C19 family,Q9NQC7,CYLD
+peptidase C19 family,Q9NVE5,USP40
+peptidase C19 family,Q9P275,USP36
+peptidase C19 family,Q9UHP3,USP25
+peptidase C19 family,Q9UPT9,USP22
+peptidase C19 family,Q9UPU5,USP24
+peptidase C19 family,Q9Y2K6,USP20
+peptidase C19 family,Q9Y4E8,USP15
+peptidase C19 family,Q9Y5T5,USP16
+peptidase C19 family,Q9Y6I4,USP3
+peptidase C19 family,Q70EK8,USP53
+peptidase C19 family,Q9P2H5,USP35
+peptidase C19 family,C9JJH3,USP17L10
+peptidase C19 family,C9JLJ4,USP17L13
+protein-tyrosine phosphatase family,P23469,PTPRE
+protein-tyrosine phosphatase family,P10586,PTPRF
+protein-tyrosine phosphatase family,Q8WUK0,PTPMT1
+protein-tyrosine phosphatase family,P23467,PTPRB
+protein-tyrosine phosphatase family,Q76I76,SSH2
+protein-tyrosine phosphatase family,Q9Y6J8,STYXL1
+protein-tyrosine phosphatase family,Q8WYL5,SSH1
+protein-tyrosine phosphatase family,Q13332,PTPRS
+protein-tyrosine phosphatase family,Q9HD43,PTPRH
+protein-tyrosine phosphatase family,Q93096,PTP4A1
+protein-tyrosine phosphatase family,P23468,PTPRD
+protein-tyrosine phosphatase family,Q9UNH5,CDC14A
+protein-tyrosine phosphatase family,O60729,CDC14B
+protein-tyrosine phosphatase family,P17706,PTPN2
+protein-tyrosine phosphatase family,P29350,PTPN6
+protein-tyrosine phosphatase family,P35236,PTPN7
+protein-tyrosine phosphatase family,P43378,PTPN9
+protein-tyrosine phosphatase family,Q16667,CDKN3
+protein-tyrosine phosphatase family,Q9H1R2,DUSP15
+protein-tyrosine phosphatase family,Q9BY84,DUSP16
+protein-tyrosine phosphatase family,Q8NEJ0,DUSP18
+protein-tyrosine phosphatase family,P51452,DUSP3
+protein-tyrosine phosphatase family,Q9BVJ7,DUSP23
+protein-tyrosine phosphatase family,Q16829,DUSP7
+protein-tyrosine phosphatase family,Q6B8I1,DUSP13
+protein-tyrosine phosphatase family,Q5VZP5,STYXL2
+protein-tyrosine phosphatase family,Q16690,DUSP5
+protein-tyrosine phosphatase family,Q13115,DUSP4
+protein-tyrosine phosphatase family,Q9UII6,DUSP13
+protein-tyrosine phosphatase family,O60942,RNGTT
+protein-tyrosine phosphatase family,Q13496,MTM1
+protein-tyrosine phosphatase family,Q13614,MTMR2
+protein-tyrosine phosphatase family,O75319,DUSP11
+protein-tyrosine phosphatase family,O95147,DUSP14
+protein-tyrosine phosphatase family,Q8WTR2,DUSP19
+protein-tyrosine phosphatase family,Q05923,DUSP2
+protein-tyrosine phosphatase family,Q68J44,DUSP29
+protein-tyrosine phosphatase family,Q16828,DUSP6
+protein-tyrosine phosphatase family,O95278,EPM2A
+protein-tyrosine phosphatase family,Q86WG5,SBF2
+protein-tyrosine phosphatase family,Q9Y217,MTMR6
+protein-tyrosine phosphatase family,Q9C0I1,MTMR12
+protein-tyrosine phosphatase family,Q96QG7,MTMR9
+protein-tyrosine phosphatase family,Q9NRW4,DUSP22
+protein-tyrosine phosphatase family,P28562,DUSP1
+protein-tyrosine phosphatase family,Q13202,DUSP8
+protein-tyrosine phosphatase family,Q05209,PTPN12
+protein-tyrosine phosphatase family,O95248,SBF1
+protein-tyrosine phosphatase family,Q9NYA4,MTMR4
+protein-tyrosine phosphatase family,Q12923,PTPN13
+protein-tyrosine phosphatase family,Q15678,PTPN14
+protein-tyrosine phosphatase family,Q99952,PTPN18
+protein-tyrosine phosphatase family,P18031,PTPN1
+protein-tyrosine phosphatase family,Q16825,PTPN21
+protein-tyrosine phosphatase family,Q9Y2R2,PTPN22
+protein-tyrosine phosphatase family,Q9H3S7,PTPN23
+protein-tyrosine phosphatase family,P26045,PTPN3
+protein-tyrosine phosphatase family,P29074,PTPN4
+protein-tyrosine phosphatase family,P54829,PTPN5
+protein-tyrosine phosphatase family,Q9UMZ3,PTPRQ
+protein-tyrosine phosphatase family,Q13613,MTMR1
+protein-tyrosine phosphatase family,Q9NXD2,MTMR10
+protein-tyrosine phosphatase family,P23470,PTPRG
+protein-tyrosine phosphatase family,A4FU01,MTMR11
+protein-tyrosine phosphatase family,Q9Y216,MTMR7
+protein-tyrosine phosphatase family,Q16827,PTPRO
+protein-tyrosine phosphatase family,P28827,PTPRM
+protein-tyrosine phosphatase family,Q92932,PTPRN2
+protein-tyrosine phosphatase family,P08575,PTPRC
+protein-tyrosine phosphatase family,P23471,PTPRZ1
+protein-tyrosine phosphatase family,Q12974,PTP4A2
+protein-tyrosine phosphatase family,A2A3K4,PTPDC1
+protein-tyrosine phosphatase family,P18433,PTPRA
+protein-tyrosine phosphatase family,Q8TE77,SSH3
+protein-tyrosine phosphatase family,Q15262,PTPRK
+protein-tyrosine phosphatase family,Q13615,MTMR3
+protein-tyrosine phosphatase family,Q8NCE2,MTMR14
+protein-tyrosine phosphatase family,O14522,PTPRT
+protein-tyrosine phosphatase family,Q92729,PTPRU
+protein-tyrosine phosphatase family,Q12913,PTPRJ
+protein-tyrosine phosphatase family,Q15256,PTPRR
+protein-tyrosine phosphatase family,Q06124,PTPN11
+protein-tyrosine phosphatase family,Q16849,PTPRN
+protein-tyrosine phosphatase family,O75365,PTP4A3
+histone H1/H5 family,P16401,HIST1H1B
+histone H1/H6 family,P10412,HIST1H1E
+histone H1/H7 family,Q02539,HIST1H1A
+histone H1/H8 family,P16403,HIST1H1C
+histone H1/H9 family,P07305,H1F0
+histone H1/H10 family,P16402,HIST1H1D
+histone H1/H11 family,Q92522,H1-10
+histone H1/H12 family,P60008,H1-9P
+histone H1/H13 family,P22492,HIST1H1T
+histone H1/H14 family,Q75WM6,H1FNT
+histone H1/H15 family,Q8IZA3,H1FOO
+histone-lysine methyltransferase family,Q9H7B4,SMYD3
+histone-lysine methyltransferase family,Q9BYW2,SETD2
+histone-lysine methyltransferase family,Q9H5I1,SUV39H2
+histone-lysine methyltransferase family,Q15910,EZH2
+histone-lysine methyltransferase family,Q96KQ7,EHMT2
+histone-lysine methyltransferase family,Q86Y97,SUV420H2
+histone-lysine methyltransferase family,Q8NEZ4,KMT2C
+histone-lysine methyltransferase family,Q9NR48,ASH1L
+histone-lysine methyltransferase family,Q03164,KMT2A
+histone-lysine methyltransferase family,Q9UMN6,KMT2B
+histone-lysine methyltransferase family,Q9NQR1,SETD8
+histone-lysine methyltransferase family,Q8IZD2,KMT2E
+histone-lysine methyltransferase family,Q4FZB7,SUV420H1
+histone-lysine methyltransferase family,Q9BZ95,WHSC1L1
+histone-lysine methyltransferase family,Q92800,EZH1
+histone-lysine methyltransferase family,O96028,WHSC1
+histone-lysine methyltransferase family,O14686,KMT2D
+histone-lysine methyltransferase family,Q8TBK2,SETD6
+histone-lysine methyltransferase family,Q8WTS6,SETD7
+histone-lysine methyltransferase family,Q15047,SETDB1
+histone-lysine methyltransferase family,O43463,SUV39H1
+Orthers,Q92734,TFG
