@@ -1,0 +1,9 @@
+﻿UniportID,alignment start,alignment end,envelope start,envelope end,hmm acc,hmm name,type,hmm start,hmm end,hmm length,bit score,E-value,significance,clan
+O15169,10,80,8,80,PF16646.5,AXIN1_TNKS_BD,Domain,3,75,75,82,4.40E-23,1,No_clan
+O15169,88,210,88,210,PF00615.19,RGS,Domain,1,118,118,93,1.50E-26,1,CL0272
+O15169,464,518,464,521,PF08833.10,Axin_b-cat_bind,Domain,1,39,44,35.9,5.90E-09,1,No_clan
+O15169,782,859,781,860,PF00778.17,DIX,Family,2,80,81,104.4,2.00E-30,1,CL0072
+Q9Y2T1,10,73,9,73,PF16646.5,AXIN1_TNKS_BD,Domain,2,75,75,77.4,1.20E-21,1,No_clan
+Q9Y2T1,81,199,81,199,PF00615.19,RGS,Domain,1,118,118,97.6,5.50E-28,1,CL0272
+Q9Y2T1,432,456,432,471,PF08833.10,Axin_b-cat_bind,Domain,1,25,44,37.8,1.50E-09,1,No_clan
+Q9Y2T1,763,841,762,841,PF00778.17,DIX,Family,2,81,81,94.8,2.00E-27,1,CL0072

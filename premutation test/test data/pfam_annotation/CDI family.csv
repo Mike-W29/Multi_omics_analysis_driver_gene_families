@@ -1,0 +1,4 @@
+﻿UniportID,alignment start,alignment end,envelope start,envelope end,hmm acc,hmm name,type,hmm start,hmm end,hmm length,bit score,E-value,significance,clan
+P38936,21,68,20,68,PF02234.19,CDI,Family,2,49,49,66.7,1.50E-18,1,No_clan
+P49918,32,82,32,82,PF02234.19,CDI,Family,1,49,49,59.7,2.30E-16,1,No_clan
+P46527,31,79,31,79,PF02234.19,CDI,Family,1,49,49,78,4.50E-22,1,No_clan

@@ -1,0 +1,5 @@
+﻿UniportID,alignment start,alignment end,envelope start,envelope end,hmm acc,hmm name,type,hmm start,hmm end,hmm length,bit score,E-value,significance,clan
+Q92560,5,214,5,215,PF01088.21,Peptidase_C12,Domain,1,210,211,230.7,1.50E-68,1,CL0125
+Q92560,643,688,643,688,PF18031.1,UCH_C,Domain,1,46,46,59.7,1.80E-16,1,CL0614
+P15374,6,214,6,214,PF01088.21,Peptidase_C12,Domain,1,211,211,228.8,5.80E-68,1,CL0125
+P09936,5,204,3,206,PF01088.21,Peptidase_C12,Domain,3,209,211,197.2,2.70E-58,1,CL0125

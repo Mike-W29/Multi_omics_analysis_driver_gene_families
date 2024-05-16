@@ -1,0 +1,5 @@
+﻿UniportID,alignment start,alignment end,envelope start,envelope end,hmm acc,hmm name,type,hmm start,hmm end,hmm length,bit score,E-value,significance,clan
+Q9NPI1,140,223,140,223,PF00439.25,Bromodomain,Domain,1,84,84,75.4,2.80E-21,1,No_clan
+Q9NPI1,288,533,287,534,PF12024.8,DUF3512,Family,2,236,237,303.7,8.00E-91,1,No_clan
+Q9H8M2,146,228,142,228,PF00439.25,Bromodomain,Domain,2,84,84,81.3,4.00E-23,1,No_clan
+Q9H8M2,275,505,274,505,PF12024.8,DUF3512,Family,2,237,237,288.9,2.80E-86,1,No_clan
