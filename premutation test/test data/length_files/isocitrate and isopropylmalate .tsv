@@ -1,0 +1,6 @@
+From	Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length
+P51553	P51553	reviewed	IDH3G_HUMAN	Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial (Isocitric dehydrogenase subunit gamma) (NAD(+)-specific ICDH subunit gamma)	IDH3G	Homo sapiens (Human)	393
+P48735	P48735	reviewed	IDHP_HUMAN	Isocitrate dehydrogenase [NADP], mitochondrial (IDH) (EC 1.1.1.42) (ICD-M) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)	IDH2	Homo sapiens (Human)	452
+O43837	O43837	reviewed	IDH3B_HUMAN	Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial (Isocitric dehydrogenase subunit beta) (NAD(+)-specific ICDH subunit beta)	IDH3B	Homo sapiens (Human)	385
+P50213	P50213	reviewed	IDH3A_HUMAN	Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial (EC 1.1.1.41) (Isocitric dehydrogenase subunit alpha) (NAD(+)-specific ICDH subunit alpha)	IDH3A	Homo sapiens (Human)	366
+O75874	O75874	reviewed	IDHC_HUMAN	Isocitrate dehydrogenase [NADP] cytoplasmic (IDH) (IDH1) (EC 1.1.1.42) (Cytosolic NADP-isocitrate dehydrogenase) (IDPc) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)	IDH1 PICD	Homo sapiens (Human)	414
