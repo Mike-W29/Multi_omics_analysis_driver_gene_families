@@ -24,14 +24,9 @@ This repository primarily focuses on storing machine learning code and software 
 In this repository, you can find the following folders:
 ```
 project
-├───ML model
-│   ├───SVM 10 
-│   │   ├───SVM_10 APP
-│   │   │   └───APP file
-│   ├───SVM TTK
-│   │   └───SMV TTK APP
-│   │       └───APP file
-└───test data
+
+
+
 ```
 
 
