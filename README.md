@@ -5,12 +5,12 @@ This repository serves as a repository for the supporting code and data derived 
 This repository primarily focuses on storing machine learning code and software from the paper "From driver genes to gene families: a computational analysis of oncogenic mutations and ubiquitination anomalies in hepatocellular carcinoma".
 
 ✅
-` **!!!!!**`: 
+` **premutation test**`:  Identifies protein domains with significant mutation burdens.
  
 ✅
-` **!!!!!**`: 
+` **Domain_Hotspot**`:  Identifies mutation hotspots in domains (requires first defining protein domains with significant mutation burdens).
 
-✅` **!!!!!**`: 
+✅` **DDGs**`:  Defines the process for identifying driver-dysregulated genes.
  
 ✅
  !!!!
@@ -24,16 +24,34 @@ This repository primarily focuses on storing machine learning code and software 
 In this repository, you can find the following folders:
 ```
 project
-
-
-
+├───DDGs
+│   └───Code
+├───Domain_Hotspot
+│   ├───Code
+│   └───test data
+│       └───Alignment_tsv.zip
+└───premutation test
+    ├───code
+    └───test data
+        ├───length_files
+        └───pfam_annotation
 ```
 
 
-- `**ML model**`: Stores two classification models, SVM_10 and SVM_TTK.
-  - `**SVM_10**`: Contains the code files and related tutorials for SVM_10.
-    - `**SVM_10 APP**`: Stores the executable program for SVM_10 and related tutorials.
-  - `**SVM_TTK**`: Contains the code files and related tutorials for SVM_TTK.
-    - `**SVM_TTK APP**`: Stores the executable program for SVM_TTK and related tutorials.
-- `**APP file**`: Stores the related executable software. Please note that due to GitHub's file upload size limitations, we have compressed the software into split volumes.
-- `**Test data**`: Contains a set of test data.
+- **DDGs**: Defines the process for identifying driver-dysregulated genes.
+  - **Code**: Contains the relevant code for identifying driver-dysregulated genes.
+  
+- **Domain_Hotspot**: Identifies mutation hotspots in domains (requires first defining protein domains with significant mutation burdens).
+  - **Code**: Contains the relevant code for Domain_Hotspot.
+  - **test data**: Contains the test data for Domain_Hotspot.
+    - **Alignment_tsv.zip**: Multi-sequence alignment results for domain sequences.
+
+- **premutation test**: Identifies protein domains with significant mutation burdens.
+  - **Code**: Contains the relevant code for premutation test.
+  - **test data**: Contains the test data for premutation test.
+    - **length_files**: Protein length files (data from the UniProt database).
+    - **pfam_annotation**: Protein domain annotation files (data from PfamScan).
+
+# Required packages
+
+
