@@ -53,5 +53,16 @@ project
     - **pfam_annotation**: Protein domain annotation files (data from PfamScan).
 
 # Required packages
+| Package    | Version |
+|------------|---------|
+| R          | 4.2.1   |
+| data.table | 1.14.2  |
+| dplyr      | 1.1.1   |
+| ELMER      | 2.20.0  |
+| ChAMP      | 2.26.0  |
+| multiMiR   | 1.18.0  |
+| ggplot2    | 4.2.3   |
+| grid       | 4.2.1   |
+| ggvenn     | 0.1.9   |
 
 
