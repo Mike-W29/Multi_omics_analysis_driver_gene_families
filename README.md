@@ -17,7 +17,7 @@ This repository primarily focuses on storing machine learning code and software 
 
 # Introduction
 
-!!!!!
+Hepatocellular carcinoma (HCC) is a widespread primary liver cancer with a high fatality rate. Despite several genes with oncogenic effects in HCC have been identified, many remain undiscovered. In this study, we conducted a comprehensive computational analysis to explore the involvement of genes within the same families as known driver genes in HCC.    Specifically, we expanded the concept beyond single-gene mutations to encompass gene families sharing homologous structures, integrating various omics data to comprehensively understand gene abnormalities in cancer. Our analysis identified 74 domains with an enriched mutation burden, 404 domain mutation hotspots, and 233 dysregulated driver genes. We observed that specific low-frequency somatic mutations may contribute to HCC occurrence, potentially overlooked by single-gene algorithms. Furthermore, we systematically analyzed how abnormalities in the ubiquitinated proteasome system (UPS) impact HCC, finding that abnormal genes in E3, E2, DUB families, and Degron genes often result in HCC by affecting the stability of oncogenic or tumor suppressor proteins. In conclusion, expanding the exploration of driver genes to include gene families with homologous structures emerges as a promising strategy for uncovering additional oncogenic alterations in HCC.
 
 
 # Contents of this repository
